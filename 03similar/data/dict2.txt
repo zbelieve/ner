@@ -1,0 +1,453 @@
+﻿€cgensim.corpora.dictionary
+Dictionary
+q )乹}q(X   token2idq}q(X   娌虫捣澶уqK X	   鏈‘瀹歲KX   鏍℃瓕qKX   銆俼KX   鍘焣	KX   娌虫捣q
+KX   宸ョ▼qKX   涓撻棬qKX   瀛︽牎qKX   鐢眖K	X   钁楀悕qK
+X	   鏂囧瀹秖KX	   鏌宠瘨寰祋KX   浣滆瘝qKX   锛宷KX   鏁欏笀qKX   鍒榪KX   鏂囨捣qKX   浣滄洸qKX   鏇茶氨qKX   鏁ｅけqKX   鍙暀qKX   姝岃瘝qKX   鍙︽湁qKX   90qKX   鍛ㄥ勾qKX   鏍″簡qKX   鎵€浣渜 KX   鐨剄!KX   鏍″洯q"KX   姝屾洸q#KX   銆妐$KX	   姘翠箣瀛恞%K X   銆媞&K!X   绛塹'K"X   锛坬(K#X   涓€q)K$X   锛塹*K%X   閽熺伒姣撶q+K&X	   鐭冲ご鍩巕,K'X   浜烘墠q-K(X   钂竡.K)X   钄氳捣q/K*X	   娌崇枏婀杚0K+X   钃勬按q1K,X   鍒╁叴q2K-X   宸ュq3K.X   鏄屾槑q4K/X   鏃秖5K0X   妯祦q6K1X   娴╁姭q7K2X   姘竡8K3X   鏂粷q9K4X   鎷晳q:K5X	   鏁板厗榛巕;K6X   澶у搲q<K7X   濂攓=K8X   鍓嶇▼q>K9X   姣媞?K:X   璐熼偊q@K;X   浜烘湡qAK<X   鏅笅qBK=X   鍒╃墿qCK>X   娌恞DK?X   缇ょ敓qEK@X   鏅鸿€卶FKAX	   鎯熶箰姘磓GKBX   涔榪HKCX   杈噏IKDX   灞辫qJKEX   涔樻﹪qKKFX   娉LKGX   绁栬堪qMKHX	   绁炵缁﹒NKIX   澶╀笅qOKJX   鏈塹PKKX   婧簈QKLX   鐘瑰繁qRKMX   姝ゅ織qSKNX   绋峲TKOX   椹皅UKPX   浜宷VKQX   渚漲WKRX   鐭冲煄qXKSX   楗畄YKTX   闀挎睙qZKUX   锛泀[KVX   寮︽瓕q\KWX   娓呭噳q]KXX   鎶ユ晥q^KYX   鍥介偊q_KZX   浜簈`K[X   濂旇吘qaK\X   娴╃€歲bK]X   鐏靛姩qcK^X   椋炴壃qdK_X   鍗庡qeK`X   姘村埄qfKaX	   鍗冪涓歲gKbX   娌虫竻娴锋檹qhKcX   姘憅iKdX   瀹夊悍qjKeX   鑲叉垚qkKfX   涓囧崈qlKgX   鏍嬫qmKhX   鎵峲nKiX   涓栫邯qoKjX   妗冩潕qpKkX   鑺硄qKlX   绔嬪織qrKmX   淇韩qsKnX   涓歲tKoX   绮惧伐quKpX   璺昏韩qvKqX   涓栫晫qwKrX   涓€娴乹xKsX   寮簈yKtX   濂媞zKuX   绂归紟q{KvX   鏇磓|KwX   杈夌厡q}KxX	   鏍℃湰閮╭~KyX   浣嶄簬qKzX	   鍗椾含甯俼€K{X	   榧撴ゼ鍖簈並|X	   娓呭噳灞眖侹}X   鍖楅簱q僈~X   鍗犲湴q凨X   800q匥€X   浣欎憨q咾乆   鐜浼樼編q嘖俋   缁挎爲鎴愯崼q圞僗   鑺遍q塊刋   鍥涘q奒匵   鍙傚ぉq婯哫   娉曟q孠嘪   澶归亾q岾圶   鑰岀珛q嶬塜   鍏堝悗q廗奨   鑽ｈ幏q怟媂   鍏ㄥ浗q慘孹   閮ㄩ棬q扠峏   缁垮寲q揔嶺   鈥渜擪廥   涓夌櫨q昁怷   浣硄朘慩   鈥漲桲扻   鍜宷楰揦	   姹熻嫃鐪乹橩擷	   鑺卞洯寮弎欿昘   楂樻牎q汯朮   銆乹淜梄	   鍥灄寮弎滽榅   鍗曚綅q濳橷   绉板彿q烱歑   澶氭q燢沊   鑾峰緱q淴   鏂囨槑鍗曚綅q漍   鍏氬缓q瀀   鎬濇兂q焁   鏀挎不q燲   宸ヤ綔q   鍏堣繘闆嗕綋q   [q↘   11q㎏   ]q狵   鍏朵腑q獽   棣唓琄   寤烘垚q璌╔   鍚巕甂   鎴愪负q疜猉   褰撴椂q癒玐	   鏍囧織鎬盞琗   寤虹瓚q睰璛   涔嬩竴q矺甔   1959q碖疿   骞磓礙癤   鍏ラ€塹禟盭	   宸ョ▼閮╭稫瞂   绉戝q窴砐	   鐮旂┒闄筀碭   缂栬緫鍑虹増q篕礨   鍗佸勾q籏禭   鈥攓糑稾   涓浗q終竂   浜烘皯鍏卞拰鍥絨綤筙   寤哄浗q縆篨	   鍗佸懆骞磓繩籜   绾康q罧糥   1949q翶絏   -q肒綳   鍥惧唽q腒縓   涓簈臟繶   鍗庝笢q芀罼   瀛﹂櫌q荎耎   鏃舵湡q菿肵   鑰乹蒏腦   37q蔏臱   甯稿窞q薑芚   鏍″尯q蘇荴   1986q蚄萖   鍦╭蜬蒟	   甯稿窞甯俼螷蔢   璁剧珛q蠯薠   鍒嗘牎q袺蘕   鏀逛负q襅蚗   鏄痲覭蝀   鍏锋湁q訩蟈	   杈冨畬鏁磓誎蠿   鍔炲q諯裍   鍔熻兘q譑襒   閲嶈q豄覺   缁勬垚閮ㄥ垎q貹訶   寤鸿q贙誜	   楂樻按骞硄跭諼   鐗硅壊q躃譞	   鐮旂┒鍨媞軰豖   澶уq轐賆   鏀拺q逰赬   鍦板q郖踃	   鑻忛敗甯竡酜躕   缁忔祹q釱軽   楂橀€焣鉑轝   鍙戝睍q銴遆   鍦板尯q錕郮   鍥藉q鍷醁   楂樻柊鎶€鏈痲鏚釾   浜т笟q鐺鉞	   寮€鍙戝尯q镵鋁   涓巕闗錢   琛屾斂q隟鎄   涓績q霮鏧   姣旈偦q鞬鑈   436q頚閄   浜﹒颣闤   姹熷畞q餕隭   鎹畄馣靀   绉戝鎶€鏈鍛樹細q騅鞽   缃戠珯q驥頧   浠嬬粛q鬕颴   锛歲鮇餢	   鏁欏鍖簈鯧馲   鍗犲湴闈㈢Нq鱇騒   863q鳮骕   瀛︾敓q鵎鬤	   鐢熸椿鍖簈鶮鮔   134q鸎鯴	   鏁欒亴宸麷鱔   浣忓畢q齂鳻   80q﨣鵛	   鎬婚潰绉痲K鶻   1077r   K鸛   涓磋繎r  K黊   灏嗗啗r  K齒   灞眗  K   绉︽樊r  KX   鏂版渤r  M X   鍗椾含r  MX   鏂皉  MX   鍓嶆部r  MX   骞秗	  MX   涓滃崡澶уr
+  MX   鍗椾含鑸┖鑸ぉ澶уr  MX   鐩搁偦r  MX   鏂囧ぉr  MX   缁弐  M	X	   鏁欒偛閮╮  M
+X   鎵瑰噯r  MX   涓惧姙r  MX	   鍏ㄦ棩鍒秗  MX   鏅€氭湰绉憆  MX   鐙珛r  MX	   瀹夊窘鐪乺  MX   椹瀺灞卞競r  MX   鐩村睘r  MX   閲嶇偣楂樻牎r  MX   鍞竴r  MX   涓€鎵€r  MX   鏍″窘r  MX   姊呰姳r  MX   褰  MX   鍥炬r  MX   涓棿r  MX   绡嗗瓧r   MX   鐧藉簳r!  MX   钃濆瓧r"  MX   鏁翠綋r#  MX   鑹茬郴r$  MX   缁ф壙r%  M X   1915r&  M!X   鍒涘缓r'  M"X   鍥炬牱r(  M#X   閫夊彇r)  M$X   钃濅负r*  M%X   鏍囧噯r+  M&X   鑹瞨,  M'X   浣撶幇r-  M(X   浜唕.  M)X   澶ф睙r/  M*X   澶ф捣r0  M+X   瀹藉箍r1  M,X   鑳告€€r2  M-X   纾呯ごr3  M.X   姘斿娍r4  M/X   浠ｈ〃r5  M0X   缂樻按鑰岀敓r6  M1X   鍥犳按r7  M2X   鑰宺8  M3X   椤烘按r9  M4X   鑰岄暱r:  M5X   涓撲笟r;  M6X   鐗箁<  M7X   涓婃柟r=  M8X   1985r>  M9X   鎭㈠r?  M:X   浼犵粺r@  M;X   鏍″悕rA  M<X	   閭撳皬骞硆B  M=X   鍚屽織rC  M>X   棰樺啓rD  M?X   瀛梤E  M@X   涓嬫柟rF  MAX   寤烘牎rG  MBX   骞翠唤rH  MCX   鑻辨枃鍚嶇ОrI  MDX   鍑告樉rJ  MEX   鎮爎K  MFX   涔卹L  MGX   鍘嗗彶rM  MHX   澶栧湀rN  MIX   1924rO  MJX   宸ョ澶уrP  MKX   姊卹Q  MLX   鑺辩摚rR  MMX   璞″緛rS  MNX   鍌查洩鍑岄湝rT  MOX   鍧氶煣涓嶆嫈rU  MPX   宕囬珮鍝佽川rV  MQX   甯傝姳rW  MRX   鍠荤ずrX  MSX	   鎵€鍦ㄥ湴rY  MTX   鍚屾椂rZ  MUX   姘磖[  MVX   娉㈡氮r\  MWX   鏆楀悎r]  MXX   涔焤^  MYX   Hohair_  MZX
+   Universityr`  M[X   绠€绉皉a  M\X   浼歳b  M]X   鎵€鏈塺c  M^X   鐧惧勾rd  M_X   浠e  M`X   宸ョrf  MaX   涓轰富rg  MbX   澶歳h  McX   瀛︾ri  MdX   鍗忚皟rj  MeX	   姘村埄閮╮k  MfX   鍥藉娴锋磱灞€rl  MgX   姹熻嫃鐪佷汉姘戞斂搴渞m  MhX   鍏卞缓rn  MiX   閲嶇偣ro  MjX   棣栨壒rp  MkX   鍗氬＋rq  MlX   纭曞＋rr  MmX   瀛﹀＋rs  MnX   涓夌骇rt  MoX   瀛︿綅ru  MpX	   鎺堜簣鏉價v  MqX   鍓嶈韩rw  MrX   鍙互rx  MsX	   杩芥函鍒皉y  MtX   浜巖z  MuX   銆恟{  MvX   鏃|  MwX   鏈焤}  MxX   銆憆~  MyX   19960526r  MzX   鐗坮€  M{X   鍙穜?  M|X   4r?  M}X   鏍噐?  M~X   棰榬?  MX   濡備綍r?  M€X   鍩瑰吇r?  M?X   鑹烘湳r?  M?X   浣渞?  M?X   鑰卹?  M?X   榛庡悰r?  M?X   姝?  M?X   鏂噐?  M?X   鍏充箮r?  M?X   浜嬩笟r?  M?X   鑳藉惁r?  M?X   澶т簨r?  M?X   杩囧幓r?  M?X	   鍑犲崄骞磖?  M?X   閲宺?  M?X   鎴戝浗r?  M?X   杩欐柟r?  M?X   闈㈢Нr?  M?X   绱痳?  M?X   涓板瘜r?  M?X   缁忛獙r?  M?X   褰㈡垚r?  M?X   涓€濂梤?  M?X   浣撶郴r?  M?X   鎬荤粨r?  M?X   鑷繁r?  M?X   鐞嗚r?  M?X   閫犲氨r?  M?X   闅句互r?  M?X   璁℃暟r?  M?X   涓嶄絾r?  M?X   鎴戜滑r?  M?X   璐＄尞r?  M?X   鐒惰€宺?  M?X   涓嶅彲鍚﹁r?  M?X   浣撳埗r?  M?X   鐜r?  M?X   瀹炶返r?  M?X   鏂归潰r?  M?X   浜烘墠鍩瑰吇r?  M?X   瀛樺湪r?  M?X   涓€浜況?  M?X   寮婄r?  M?X   鐢熼暱r?  M?X   鐥肩柧r?  M?X   濡ㄧr?  M?X   浜媟?  M?X   杩涙r?  M?X   褰搑?  M?X   闈复r?  M?X   璺ㄥ叆r?  M?X   鏃朵唬r?  M?X   鎯宠r?  M?X   閫傚簲r?  M?X   浠ュ線r?  M?X   涓嶅悓r?  M?X   鐜痳?  M?X   澧價?  M?X   灏眗?  M?X   蹇呴』r?  M?X   瀵箁?  M?X   棰嗗煙r?  M?X   杩涜r?  M?X   鏀归潻r?  M?X   鎻愬嚭r?  M?X	   璺ㄤ笘绾猺?  M?X   鍩硅偛r?  M?X   瑙勫垝r?  M?X   鍒涢€爎?  M?X   鍚堢悊r?  M?X   鏁欒偛r?  M?X   鍒跺害r?  M?X   鎵嶈兘r?  M?X   婊¤冻r?  M?X   蹇€焤?  M?X   涓轰簡r?  M?X   璁﹔?  M?X   浜轰滑r?  M?X   鍏虫敞r?  M?X   鎺㈣r?  M?X   闂r?  M?X   鐗规剰r?  M?X   閲囪r?  M?X   涓撳r?  M?X   璇穜?  M?X   浠杛?  M?X   浠瑀?  M?X   鐣呰皥r?  M?X   鐪嬫硶r?  M?X   浠婂悗r?  M?X   杩榬?  M?X   灏唕?  M?X   鍙戣〃r?  M?X   鍏朵粬r?  M?X   鎰忚r?  M?X   鎭宠r?  M?X   璇昏€卹?  M?X   璧愮r?  M?X   灏辨r?  M?X   琛ㄦ槑r?  M?X   瑙乺?  M?X   瑙?  M?X   缂杛?  M?X   锛妑?  M?X   涓ぎ鎴忓墽瀛﹂櫌r?  M?X   闄㈤暱r?  M?X	   寰愭檽閽焤?  M?X   浠巖?  M?X   寤洪櫌r?  M?X   浠ユ潵r?  M?X   鎴忓墽r?  M?X   鐢靛奖r?  M?X   鐢佃r?  M?X	   涓€澶ф壒r?  M?X   鍩瑰吇浜烘墠r?  M?X   鐗圭偣r?  M?X   涓€鏄痳?  M?X   鍧氭寔r?  M?X   鎵搑?  M?X   濂絩?  M?X   鐗㈠浐r?  M?X   琛ㄦ紨鑹烘湳r?  M?X   鍩虹r  M?X   鍙戞壃r   M?X	   鍒涢€犳€  M?X   绱犺川r  M?X   鏁欏r  M?X   褰撲腑r  MX	   鑸炲彴鍓  M X   婕斿憳r  MX   琛ㄦ紨r  MX   涓妑  MX   鐫€閲峳	  MX   鍙戞尌r
+  MX   闀滃ごr  MX   鍓嶉潰r  MX	   楹﹀厠椋巖  MX   璇█r  M	X   璁粌r  M
+X   浣縭  MX   鎴憆  MX   寰坮  MX   瑙掕壊r  MX   鑳藉姏r  MX	   鍩烘湰鍔焤  MX   闈炲父r  MX   鎵庡疄r  MX   杩欐槸r  MX   鏈夌洰鍏辩澒r  MX   鍙﹀r  MX   瀛  MX   闄㈠湪r  MX   涓€涓猺  MX   灏辨槸r  MX   寮鸿皟r  MX   鐢熸椿r   MX   瀛︿範r!  MX   涓璻"  MX   鍚勭鍚勬牱r#  MX   浜虹墿r$  MX   瑙俽%  M X   瀵焤&  M!X   杩檙'  M"X   涓槸r(  M#X   鍐呭r)  M$X   涓嶄粎r*  M%X   闃舵r+  M&X   鑰屼笖r,  M'X   璐┛r-  M(X   鍏╮.  M)X   绋媟/  M*X   鍐嶆湁r0  M+X   绉疮r1  M,X	   涓€鏁村r2  M-X   鍏ュr3  M.X   浠ュ悗r4  M/X   瑙ｆ斁r5  M0X   鍒涗綔r6  M1X   澶╂€7  M2X   鍩规r8  M3X   鑷猺9  M4X   宸眗:  M5X   涓€;  M6X   鑰佸笀r<  M7X   鎳傚緱r=  M8X   棣栧厛r>  M9X   瑕乺?  M:X   寮€鎺榬@  M;X   鏈韩rA  M<X   寮€rB  M=X   鍚痳C  M>X	   姝ゅ熀纭€rD  M?X   鍔犱互rE  M@X   璇卞rF  MAX   鏁欑粰rG  MBX   鏂规硶rH  MCX   鎻愰珮rI  MDX   鏂囧鑹烘湳rJ  MEX   绱犲吇rK  MFX   鍒皉L  MGX   楂樺勾rM  MHX   绾N  MIX   鍙坮O  MJX   閲嶈rP  MKX   瀹屾暣rQ  MLX   鑳絩R  MMX   婕斿埌rS  MNX   锛梤T  MOX   锛恟U  MPX   宀乺V  MQX   涓峳W  MRX   鏄欒姳涓€鐜皉X  MSX   鐜板湪rY  MTX   寰堝rZ  MUX   浜哄嚭r[  MVX   鏍￠棬r\  MWX   娌℃湁r]  MXX	   鐭ュ悕搴^  MYX   鍑鸿壊r_  MZX   涓嶆槸r`  M[X   璇磖a  M\X   鍋歳b  M]X   涓嶅埌rc  M^X   閲岄潰rd  M_X   绀句細re  M`X   浠栦滑rf  MaX   甯姪rg  MbX   姣斿rh  McX   鏈洪亣ri  MdX   鎵撳ソrj  MeX   鍏穜k  MfX   澶噐l  MgX   浼樼rm  MhX   寰楀埌rn  MiX   濡傛灉ro  MjX   杩欐牱rp  MkX   鎴栬€卹q  MlX   閬囧埌rr  MmX   鍓ф湰rs  MnX   瀵紃t  MoX   婕攔u  MpX   闆嗕綋rv  MqX   鐨勮瘽rw  MrX   涓嶈兘rx  MsX   鍦皉y  MtX   鏉ヨrz  MuX   涓嶆柇r{  MvX   褰辫r|  MwX   鏉}  MxX   璇鹃r~  MyX   鏁欏鏀归潻r  MzX   鍩烘湰鎬濊矾r€  M{X   鎷撳r?  M|X   鐭ヨ瘑缁撴瀯r?  M}X   甯屾湜r?  M~X   鎵€r?  MX   鎺屾彙r?  M€X   鐭ヨ瘑r?  M?X   鎶€鑳絩?  M?X   瀹絩?  M?X	   浣夸箣鑳絩?  M?X   鍦版紨r?  M?X   璇濆墽r?  M?X   鑳滀换r?  M?X   鑳藉r?  M?X   鍏峰r?  M?X   姝屽敱r?  M?X   鑸炶箞r?  M?X   鐢氳嚦r?  M?X	   闊充箰鍓?  M?X   涓浗绀句細绉戝闄?  M?X	   鐮旂┒鍛榬?  M?X	   绔ラ亾鏄巖?  M?X   娉ㄩ噸r?  M?X   鑷垜r?  M?X   淇吇r?  M?X   鍏夋湁r?  M?X   鎶€宸?  M?X	   鎴愪笉浜唕?  M?X   澶?  M?X   搴旇r?  M?X   澶у啓r?  M?X   瀵逛簬r?  M?X   涓€鐐箁?  M?X   鍘熷厛r?  M?X   涓嶅r?  M?X   涓€浣峳?  M?X   璁茶繃r?  M?X   姘村噯r?  M?X   涓嶄綆r?  M?X   浣嗘槸r?  M?X   璧板悜r?  M?X   涔嬪悗r?  M?X	   鎴愭墠鐜噐?  M?X   楂榬?  M?X	   骞磋交浜簉?  M?X   鎵嶅崕r?  M?X   淇濊瘉r?  M?X   鍙兘r?  M?X   鍖椾含鐢靛奖瀛﹂櫌r?  M?X   鏁欐巿r?  M?X	   鍒樿瘲鍏祌?  M?X   鍔瀝?  M?X   鍚勪釜r?  M?X   鎷涚敓r?  M?X   瓒婃嫑r?  M?X   瓒妑?  M?X   铏界劧r?  M?X	   澶氬厓鍖杛?  M?X   涓€绉峳?  M?X   褰㈠紡r?  M?X   璐ㄩ噺r?  M?X   鐢熸簮r?  M?X   鏈変簺r?  M?X   閫夋嫈r?  M?X   鍒板簳r?  M?X   浠€涔坮?  M?X   杩欎釜r?  M?X	   寰堥毦璇磖?  M?X   鍚勭被r?  M?X   鏀惰垂r?  M?X   閮絩?  M?X   鍍弐?  M?X   鎴忓墽瀛﹂櫌r?  M?X   鐢靛奖瀛﹂櫌r?  M?X   鏈瑀?  M?X   绉戠敓r?  M?X   浠婂勾r?  M?X   鏀秗?  M?X   锛杛?  M?X   鍏價?  M?X   宸ヨ柂闃跺眰r?  M?X   鏄傝吹r?  M?X   娌￠挶r?  M?X   涓嶄簡r?  M?X   娌?  M?X   閽眗?  M?X   鑰價?  M?X   琚玶?  M?X   鎸?  M?X   鏍?  M?X   闂ㄥr?  M?X   鐢熶骇r?  M?X   鐩歌緟鐩告垚r?  M?X   浣滃搧r?  M?X   鎺ㄥ嚭r?  M?X   鏂颁汉r?  M?X   涓嶉敊r?  M?X   浣唕?  M?X   浣滀负r?  M?X   杞戒綋r?  M?X   涓嶈r?  M?X   甯傚満缁忔祹r?  M?X   鍕ゅ伐鍔╁r?  M?X   鍑哄幓r?  M?X   鎷嶇墖r?  M?X   璧皉?  M?X   姝矾r?  M?X   姣乺?  M?X   涓嶅皯r?  M?X   绠＄悊r?  M?X   瑙夊緱r?  M?X   澶уr?  M?X   鐭ラ亾r?  M?X   鎬庢牱r?  M?X   璇磋捣r?  M?X   绠€鍗時?  M?X   璧锋潵r?  M?X   宸窛r?  M?X   寰堝ぇr?  M?X   浼樼浜烘墠r?  M?X   瀹规槗r?  M?X   鍚勭r?  M?X   骞叉壈r?  M?X   澶猺?  M?X   澶ぇr?  M?X   鏃犺兘涓哄姏r?  M?X   姣曠珶r?  M?X   鎼瀝  M?X	   灏侀棴寮弐   M?X   涓嶅彲r  M?X   蹇呯劧r  M?X   鍙嶆槧r  M?X   鐪嬫潵r  MX   鍑虹幇r  M X   澶ф壒r  MX   闇€鏈塺  MX   杩囩▼r  MX   鍖椾含r	  MX   闈掑勾鐢靛奖鍒剁墖鍘俽
+  MX   瀵兼紨r  MX   閮憆  MX   娲炲ぉr  MX   鏉′欢r  M	X   宸槸r  M
+X   褰撳墠r  MX   涓ュ郴r  MX	   鏂囧寲閮╮  MX   闄㈡牎r  MX   宸ヨ祫r  MX   浣巖  MX   鑻  MX   缁忚垂r  MX   涓嶈冻r  MX   鐩存帴r  MX   褰卞搷r  MX   鑹烘湳闄㈡牎r  MX   涓€杩況  MX   寮€濮媟  MX   鎵撳伐r  MX	   闈炶壓鏈痳  MX   瑙勫緥r   MX   涓滆タr!  MX   鎬庝箞r"  MX   涓撳績r#  MX   涓嬫潵r$  MX   鍛%  M X   锛焤&  M!X   鎯硆'  M"X   瑙ｅ喅r(  M#X   闅忎箣r)  M$X   涓浗鑹烘湳鐮旂┒闄*  M%X	   鍓墍闀縭+  M&X	   鍐弻鐧絩,  M'X   鑺暰r-  M(X	   鍙ゅ吀鑸瀝.  M)X	   姘戦棿鑸瀝/  M*X   鎶€鏈痳0  M+X   涓€瀹歳1  M,X   浠婂ぉr2  M-X	   澶氭柟闈3  M.X   瓒嬪悜r4  M/X   鑸炶箞婕斿憳r5  M0X	   瑕佽姳璐箁6  M1X   澶ч噺r7  M2X   鏃堕棿r8  M3X   鍙槸r9  M4X   鐩稿r:  M5X	   鏂囧寲璇緍;  M6X   鑹簉<  M7X   鏈痳=  M8X   姣旇緝r>  M9X   钖勫急r?  M:X   涓ラ噸r@  M;X   鐩墠rA  M<X   鍑烘潵rB  M=X   杩欎簺rC  M>X   澶у瀷rD  M?X   鏅氫細rE  M@X	   姝屼即鑸瀝F  MAX   瀹屾垚rG  MBX   缂栧rH  MCX   缁欎簣rI  MDX   浠诲姟rJ  MEX   鐢变簬rK  MFX   鏂囧寲rL  MGX   寰堝皯rM  MHX   浜鸿兘rN  MIX	   鑹烘湳瀹秗O  MJX	   淇勭綏鏂痳P  MKX	   鑺暰鑸瀝Q  MLX   璺硆R  MMX   杞rS  MNX   鍥犱负rT  MOX   鍩烘湰rU  MPX   鍒檙V  MQX   鎶妑W  MRX   鏀惧埌rX  MSX   涓rY  MTX   鍘籸Z  MUX   澶т笓瀛︾敓r[  MVX   鑸炶箞瀛﹂櫌r\  MWX	   璇诲嚭鏉]  MXX   濂藉r^  MYX   娆х編r_  MZX   娌℃硶r`  M[X   姣攔a  M\X   闅緍b  M]X   鍑哄ぇrc  M^X   宸茬粡rd  M_X   鏈夊悕re  M`X   鍗磖f  MaX   缂栬垶rg  MbX   鏀瑰彉rh  McX   杩欑ri  MdX   鎯呭喌rj  MeX   闇€瑕乺k  MfX   灏忓rl  MgX   鎴愬rm  MhX   鏁欒偛浣撳埗rn  MiX	   鑹烘湳绯籸o  MjX	   鑸炶箞绯籸p  MkX   瀹炶rq  MlX   澶氱rr  MmX   骞跺瓨rs  MnX   鏀瑰姩rt  MoX   杩愯ru  MpX   鏉ヨrv  MqX   鏀硅rw  MrX   鍖椾含鑸炶箞瀛﹂櫌rx  MsX   鍓痳y  MtX   浜庡钩rz  MuX   绉颁负r{  MvX   鏃╂湡r|  MwX	   涓撲笟鎬}  MxX   鍑簉~  MyX   楂樼骇r  MzX   涓撲笟浜烘墠r€  M{X   寰梤?  M|X   寰堝皬r?  M}X   骞撮緞r?  M~X   韬綋r?  MX   鍙憆?  M€X   鑲蹭細r?  M?X   鍙楀埌r?  M?X   鎵€浠?  M?X   闄や簡r?  M?X   浠ュr?  M?X   鍏跺畠r?  M?X   鏅亶r?  M?X   鎰熻r?  M?X   褰撶劧r?  M?X   鍥犳r?  M?X   涓媟?  M?X   瀹氳r?  M?X   纭疄r?  M?X   鍏ㄩ潰r?  M?X	   鏈夎禆浜巖?  M?X   鍥綋r?  M?X   濂囨€猺?  M?X   涓嶈r?  M?X   澶т笓r?  M?X	   鏈鐢焤?  M?X   鍙嶈€宺?  M?X   涓笓r?  M?X	   姣曚笟鐢焤?  M?X   瀛︿簡r?  M?X   锛憆?  M?X   锛抮?  M?X   锛檙?  M?X   姣曚笟r?  M?X   閭ｉ噷r?  M?X   姝ｅソr?  M?X   闀縭?  M?X   鍙湁r?  M?X   瀛﹀巻r?  M?X   璺宠垶r?  M?X   涓嶄細r?  M?X   浜屾r?  M?X   鎷╀笟r?  M?X	   鍙兘鎬?  M?X   杩涘叆r?  M?X   鍓у洟r?  M?X   鍚庣画r?  M?X   寰堥毦r?  M?X   璺熶笂r?  M?X   鍙槸r?  M?X   鏈轰細r?  M?X	   澶氫竴鐐箁?  M?X   浣垮緱r?  M?X   澶勪簬r?  M?X   鍋滈】r?  M?X   鐘跺喌r?  M?X   鍚峳?  M?X   閫犳垚r?  M?X   鏇村鏇村ソr?  M?X   涓ぎ闊充箰瀛﹂櫌r?  M?X   鐜嬫r?  M?X   鐏彫r?  M?X   鑰屾槸r?  M?X   娴佸けr?  M?X   鏂藉睍r?  M?X   鍦版柟r?  M?X   鍑哄浗r?  M?X   鍋囧r?  M?X	   鑹烘湳闄?  M?X   鍥?  M?X   濂戒簨r?  M?X   鐣欎綇r?  M?X   闄㈠洟r?  M?X   鑰冩牳r?  M?X   鍥藉r?  M?X   鍥炴潵r?  M?X   璇存槑r?  M?X   榛巖?  M?X   鍚況?  M?X   鍏间緵r?  M?X   鏅氭姤r?  M?X   绠€鏄搑?  M?X   鏋佷簡r?  M?X	   浜旂嚎璋眗?  M?X   褰╄壊r?  M?X   璇嗚r?  M?X   娉時?  M?X   闂笘r?  M?X	   鏂板崕绀緍?  M?X   锛時?  M?X   鏈坮?  M?X   鏃ョ數r?  M?X   璁拌€卹?  M?X	   浜庨暱娲猺?  M?X	   浜岄緳璺痳?  M?X   灏戝勾涔嬪r?  M?X   闈掑勾r?  M?X   闊充箰r?  M?X   鍒樿r?  M?X   骞崇户r?  M?X   鍙戞槑r?  M?X   鍞卞悕r?  M?X   涔媟?  M?X   鏈€杩憆?  M?X   鐮旂┒r?  M?X   蹇玶?  M?X   褰﹔?  M?X	   鑹茶氨娉時?  M?X   璋眗?  M?u(X   杩愮敤r?  M?X   鏁板r?  M?X   鏄犲皠r?  M?X   鍘熺悊r?  M?X   鐢╮?  M?X   璧?  M?X   姗檙?  M?X   榛剅?  M?X   缁縭?  M?X   闈抮?  M?X   钃漴?  M?X   绱玶?  M?X   鍒嗗埆r?  M?X   绠€璋眗?  M?X   锛搑?  M?X   锛攔?  M?X   棰滆壊r?  M?X   鏄爎?  M?X   姣忎釜r  M?X   闊崇r   M?X   鍙樺緱r  M?X   鏇翠负r  M?X   瀹箁  M?X   鏄搑  MX   鏈€澶  M X   涓嶅彈r  MX   鍙樿皟r  MX   杞皟r  MX   鍙妑	  MX   璋卞彿r
+  MX   涓€鑸瑀  MX   鍙痳  MX   涓変釜r  MX   鍐卹  M	X   璋冨強r  M
+X   濡俽  MX   宸瞨  MX   鍙猺  MX   闇€r  MX   澶﹔  MX   鍗冲彲r  MX   杩欓」r  MX   鐢虫姤r  MX   鍥藉涓撳埄r  MX   鏈夊叧r  MX   璁や负r  MX	   骞煎効鍥璻  MX   璇曠敤r  MX	   鎹粙缁峳  MX   鍗冲皢r  MX   鍗皉  MX   鍒舵垚r   MX   鏇查泦r!  MX   鍏璻"  MX   路r#  MX	   鍎跨鑺俽$  MX   绀肩墿r%  M X   鐚粰r&  M!X   骞垮ぇr'  M"X   灏戝勾鍎跨r(  M#X   瀹宺)  M$X   鍐堕噾r*  M%X   搴ц皥r+  M&X	   姹熸辰姘憆,  M'X   璁茶瘽r-  M(X   閽㈤搧宸ヤ笟r.  M)X	   鎼炰笂鍘籸/  M*X   鐭ヨ瘑鍒嗗瓙r0  M+X   涔変笉瀹硅緸r1  M,X   璐ｄ换r2  M-X   (r3  M.X   )r4  M/X   :r5  M0X	   椤炬椽娲猺6  M1X   姹熸辰r7  M2X	   鎬讳功璁皉8  M3X   鍏充簬r9  M4X   鐖卞浗涓讳箟r:  M5X   浣垮懡r;  M6X   鎶ュ憡r<  M7X	   鍐堕噾閮╮=  M8X   閽㈤搧r>  M9X   鎬婚櫌r?  M:X   涓€鎵箁@  M;X   鎴愬氨rA  M<X   鍗撹憲rB  M=X   鎶戝埗rC  M>X   涓嶄綇rD  M?X   鍐呭績rE  M@X   婵€鍔╮F  MAX   浜瑀G  MBX   鎰熷彈rH  MCX   鍙備笌rI  MDX   鏀诲厠rJ  MEX   鐗圭rK  MFX   閽L  MGX   鍐剁偧rM  MHX   闅鹃rN  MIX	   鏉庢閭O  MJX   鍚瑀P  MKX   鎰熷埌rQ  MLX   浜插垏rR  MMX   娣卞彈榧撹垶rS  MNX   宸ヤ汉闃剁骇rT  MOX   闃熶紞rU  MPX   涓昏rV  MQX   浠庝簨rW  MRX   鑴戝姏鍔冲姩rX  MSX	   涓€閮ㄥ垎rY  MTX   绀句細涓讳箟rZ  MUX	   鐜颁唬鍖杛[  MVX   鐫€r\  MWX   鏇夸唬r]  MXX   浣滅敤r^  MYX   姣弐_  MZX   鎯冲埌r`  M[X   杩欑偣ra  M\X   娣辨劅rb  M]X   璐ｄ换閲嶅ぇrc  M^X   鎷縭d  M_X   浜哄潎re  M`X   骞翠骇rf  MaX	   澶氬叕鏂g  MbX	   鐩稿綋浜巖h  McX   鍙戣揪ri  MdX	   鍗佸嚑鍒唕j  MeX	   璧朵笂鍘籸k  MfX   渚濋潬rl  MgX   绉戞妧杩涙rm  MhX   姝n  MiX   琛屼笟ro  MjX   鎶€鏈汉鍛榬p  MkX   鏈夌潃rq  MlX   閫氳鍗槦rr  MmX   涓婂ぉrs  MnX   鍋氬嚭rt  MoX   閲嶅ぇ璐＄尞ru  MpX   楂樻俯rv  MqX   鍚堥噾rw  MrX   鐜媟x  MsX	   鐐庡姞鐐巖y  MtX   鏃乺z  MuX   璇勪环r{  MvX   鎺ㄥ績缃吂r|  MwX   鍧﹁瘹r}  MxX   璇噸蹇冮暱r~  MyX   鍦颁綅r  MzX   鏀瑰杽r€  M{X   鍏氬拰鍥藉r?  M|X   鍔涙墍鑳藉強r?  M}X   鎷呰礋r?  M~X   娓呮r?  MX   鍙r?  M€X   浜ょ粰r?  M?X   鍐峳?  M?X   骞瞨?  M?X   杩戝嚑骞存潵r?  M?X   鍙傚姞r?  M?X	   楂樻妧鏈痳?  M?X	   涓暱鏈焤?  M?X   绉戞妧r?  M?X   璁″垝r?  M?X   瀹夋帓r?  M?X   宸?  M?X   浣滀腑r?  M?X   鎺ヨЕr?  M?X	   鑰佷腑闈抮?  M?X   鎷氬懡r?  M?X	   鍏卞悓鐐箁?  M?X   娣卞垏r?  M?X   浣撲細r?  M?X   锛榬?  M?X   鍥藉鑷劧绉戝濂杛?  M?X	   鑾峰緱鑰卹?  M?X   鐢甸暅r?  M?X   鏈遍潤r?  M?X   璋堝埌r?  M?X   鏃惰r?  M?X   鍛借繍r?  M?X   鍘嗘潵r?  M?X   鍏磋“r?  M?X   绱у瘑鐩歌仈r?  M?X   濂箁?  M?X   闈瀝?  M?X   甯竢?  M?X   鍙婃椂r?  M?X   杩瀝?  M?X   鐖眗?  M?X   鎶曢潬r?  M?X   澶杛?  M?X   鍥戒汉r?  M?X   楠俽?  M?X   绁栧浗r?  M?X   鍑鸿矾r?  M?X   鐮斿埗r?  M?X   绉﹀北鏍哥數绔檙?  M?X   鏍稿績閮ㄤ欢r?  M?X   鐒婃帴r?  M?X	   涓佺珛骞硆?  M?X   琛ㄧ幇r?  M?X   鍔冲姩鎴愭灉r?  M?X   楂樺害璇勪环r?  M?X	   搴ц皥浼歳?  M?X   琛ㄧずr?  M?X   鍏卞悓r?  M?X   鎰挎湜r?  M?X   鍒惰r?  M?X	   鏈夊埄浜巖?  M?X   鍏呭垎鍙戞尌r?  M?X   鑱槑鎵嶆櫤r?  M?X   鎺柦r?  M?X   鍔炴硶r?  M?X   19961029r?  M?X   9r?  M?X   鎬濇兂閬撳痉r?  M?X   鎸囧崡r?  M?X   鍔犲己r?  M?X   绮剧鏂囨槑r?  M?X   璁鸿堪r?  M?X	   琚佽吹浠乺?  M?X	   闈掑皯骞磖?  M?X   鍦烘墍r?  M?X   鏁翠釜r?  M?X   娈妑?  M?X   鍖呮嫭r?  M?X   涓や釜r?  M?X   瀵嗗垏鑱旂郴r?  M?X   鏍稿績鍐呭r?  M?X   鏃?  M?X   寤簉?  M?X   璁緍?  M?X   鏂瑰紡r?  M?X   寰堝己r?  M?X   鐜板疄r?  M?X	   閽堝鎬?  M?X   涓€璐痳?  M?X   寮€灞時?  M?X   鏈€r?  M?X   鏍规湰r?  M?X   鍏ユ墜r?  M?X   瑕佹眰r?  M?X	   绗竴澶﹔?  M?X   璧穜?  M?X   灏辫r?  M?X   鍏氬洟缁勭粐r?  M?X   鏁欏憳r?  M?X   鍚勭骇r?  M?X   鏀縭?  M?X   娌籸?  M?X   褰㈠娍鏁欒偛r?  M?X	   浜虹敓瑙俽?  M?X   閬撳痉鏁欒偛r?  M?X   鐞嗘兂r?  M?X   鏈夐亾r?  M?X   寰穜?  M?X   绾緥r?  M?X   褰撲綔r?  M?X   鏍规湰浠诲姟r?  M?X   鍥介檯涓讳箟r?  M?X   灞炰簬r?  M?X   鑼冪暣r?  M?X   澶у叕鏃犵r?  M?X   鏈嶄粠r?  M?X   灞€r?  M?X   鑹拌嫤濂嬫枟r?  M?X   绮剧r?  M?X   绛夌瓑r?  M?X   甯傚満r?  M?X   缁忔祹浣撳埗r?  M?X   寤虹珛r?  M?X   涓€鍦簉?  M?X   娣卞埢r?  M?X   闈╁懡r?  M?X   瀹價?  M?X   寮曡捣r  M?X   鎬濇兂瑙傚康r   M?X   宸ㄥぇ鍙樺寲r  M?X   璁稿r  M?X   鏈夊埄鏉′欢r  M?X   甯︽潵r  MX   澧炲己r  M X   鑷珛r  MX   鎰弐  MX   璇唕  MX   绔炰簤r	  MX   鎰忚瘑r
+  MX   鏁堢巼r  MX   姘戜富娉曞埗r  MX   寮€鎷撳垱鏂皉  MX   鑷韩r  M	X   寮辩偣r  M
+X   娑坮  MX   鏋乺  MX   涓潵r  MX   涓汉r  MX   寮哄寲r  MX   瑙傚康r  MX   娣″寲r  MX	   璐ｄ换鎰焤  MX	   璐ｄ换蹇價  MX   鏄庢樉r  MX   鍑忓急r  MX   鐗╄川鍒╃泭r  MX   浜彈r  MX   鏈夋墍r  MX   鍥爎  MX   鍗佸垎閲嶈r  MX   闆嗕綋涓讳箟r   MX   鍧氬喅r!  MX   鍙嶅r"  MX   鎶涘紑r#  MX   鍒汉r$  MX   濂嬫枟r%  M X   鎵瑰垽r&  M!X   璧勪骇闃剁骇r'  M"X   鎹熶汉鍒╁繁r(  M#X   鍞埄鏄浘r)  M$X   鑵愭溄鎬濇兂r*  M%X   鏃犳斂搴滀富涔塺+  M&X   鏋佺r,  M'X   涓汉涓讳箟r-  M(X   鍏堜汉鍚庡繁r.  M)X   鎺ㄥ箍r/  M*X   浜烘皯r0  M+X   鍏ㄤ綋r1  M,X	   鏄洜涓簉2  M-X   鑱旂郴r3  M.X   涓€璧穜4  M/X   鍦ㄧ粡娴庝笂r5  M0X   鐢熶骇璧勬枡r6  M1X	   鍏湁鍒秗7  M2X   瀹炵幇r8  M3X   鍏卞悓瀵岃r9  M4X   鐩爣r:  M5X   鍐呭湪r;  M6X   鍦ㄦ斂娌讳笂r<  M7X   缇や紬r=  M8X   褰撳鍋氫富r>  M9X   姘戜富闆嗕腑鍒秗?  M:X   鍘熷垯r@  M;X   闆唕A  M<X   鍦ㄦ€濇兂涓妑B  M=X	   鍏变骇鍏歳C  M>X   鍏ㄥ績鍏ㄦ剰rD  M?X   鏈嶅姟rE  M@X   瀹楁棬rF  MAX   鍏蜂綋rG  MBX   鍥借€宺H  MCX   蹇榬I  MDX   瀹秗J  MEX   鍏€屽繕绉乺K  MFX   鍏堝ぉ涓嬩箣蹇ц€屽咖rL  MGX   鍚庡ぉ涓嬩箣涔愯€屼箰rM  MHX   涓崕姘戞棌rN  MIX   浼犵粺缇庡痉rO  MJX   寮樻壃rP  MKX   鐗规畩rQ  MLX   鏈川rR  MMX	   鎴栬€呰rS  MNX   涓讳箟rT  MOX   鐞嗘€U  MPX   鍗囧崕rV  MQX   鎰忎箟rW  MRX   鍐呮兜rX  MSX   姝ｇ‘澶勭悊rY  MTX   涓汉鍒╃泭rZ  MUX   闆嗕綋鍒╃泭r[  MVX   鍏崇郴r\  MWX   杩芥眰r]  MXX   姝ｅ綋r^  MYX   鍏呭垎鑰冭檻r_  MZX   鑱岃矗r`  M[X   浠栦汉ra  M\X   鎵€搴攔b  M]X   灏絩c  M^X   涔夊姟rd  M_X   搴攔e  M`X   鎵挎媴rf  MaX   鐖卞浗rg  MbX   涓籸h  McX   涔夋槸ri  MdX   鎰熸儏rj  MeX   鏇存槸rk  MfX   澶╀笅鍏翠骸rl  MgX   鍖瑰か鏈夎矗rm  MhX   閬撶悊rn  MiX	   姣涙辰涓渞o  MjX   楂樺害璧炴壃rp  MkX	   鐧芥眰鎭﹔q  MlX   璐熻矗rr  MmX   浠籸s  MnX   璐ｄ换鎰忚瘑rt  MoX   鎻愬€u  MpX   鍙戠敓rv  MqX   鐭涚浘rw  MrX   搴斿綋rx  MsX   鐗簉y  MtX   鐗瞨z  MuX   鍒╃泭r{  MvX   鍙【r|  MwX   涓嶉【r}  MxX   璐~  MyX   閭  MzX   璧风爜r€  M{X   閬撳痉r?  M|X	   璋堜笉涓妑?  M}X   淇?  M~X   浠皉?  MX   鑷己涓嶆伅r?  M€X   绮剧璐㈠瘜r?  M?X   鍏歳?  M?X   浼樺娍r?  M?X   鏃犱骇闃剁骇r?  M?X   涓杛?  M?X   鐣岃r?  M?X	   浠峰€艰r?  M?X   鎸囧嚭r?  M?X   鑹拌嫤鏈寸礌r?  M?X   鎶撶揣r?  M?X   涓€鐩磖?  M?X   鎶搑?  M?X   鍏崄r?  M?X   鑷硆?  M?X	   涓冨崄骞磖?  M?X   浼樿壇浼犵粺r?  M?X	   浠€涔堟牱r?  M?X   绮剧鐘舵€乺?  M?X   璐㈠瘜r?  M?X   鏂椾簤r?  M?X   鐩镐簰r?  M?X   鐩镐簰閰嶅悎r?  M?X   鏈夋満r?  M?X   鏁磖?  M?X   浣搑?  M?X	   濡傛灉璇磖?  M?X   浜虹敓r?  M?X   浠峰€紃?  M?X   鍙栧悜r?  M?X   閭ｄ箞r?  M?X   鐢熸椿鎬佸害r?  M?X   鐢熸椿浣滈r?  M?X   閫氳繃r?  M?X   鏍戠珛r?  M?X   楂樺害r?  M?X   姘戞棌r?  M?X   鎸叴r?  M?X   瀵屽己r?  M?X   闃愭槑r?  M?X   璁簉?  M?X   杩皉?  M?X   瀹屽杽r?  M?X   瀛︽牎寰疯偛r?  M?X   鎻愪緵r?  M?X   姝﹀櫒r?  M?X   娓楅€弐?  M?X   鍚剅?  M?X   涔嬩腑r?  M?X   姘村钩r?  M?X   涔嬩笂r?  M?X   鍝佽川r?  M?X   鍖杛?  M?X   蹇冪悊r?  M?X   璇稿鏂归潰r?  M?X   绱爎?  M?X   璐╮?  M?X   鏂囧寲鏁欒偛r?  M?X   韬績鍋ュ悍r?  M?X   瀵嗗垏r?  M?X   鏌愪竴r?  M?X   鍏ㄦ牎r?  M?X	   涓嶅崟鏄痳?  M?X   鐗瑰埆寮鸿皟r?  M?X	   寰锋櫤浣搑?  M?X   瑙夋偀r?  M?X	   鍔冲姩鑰卹?  M?X   鏂归拡r?  M?X   璐交鍒板簳r?  M?X   璐交r?  M?X   鍚勪釜鏂归潰r?  M?X	   鍑哄痉鏅簉?  M?X   鍏抽敭r?  M?X   閬撳痉绱犺川r?  M?X   鏁欓r?  M?X   鏍￠r?  M?X   鎴愯触r?  M?X   楂樹綆r?  M?X	   鏁欒偛鑰卹?  M?X   鍏堝彈r?  M?X   鎬漴?  M?X	   涓嶄粎浠卹?  M?X   鎸噐?  M?X   鍦ㄥ唴r?  M?X   鏄庣‘r?  M?X   鍚勭骇鍏氬r?  M?X	   鍏氱粍缁噐?  M?X   鐑儏r?  M?X   鍏冲績r?  M?X   璁ょ湡瀛︿範r?  M?X	   椹厠鎬漴?  M?X   鍒楀畞r?  M?X   姣涙辰涓滄€濇兂r?  M?X	   鐗㈠浐鍦皉?  M?X   鍏变骇涓讳箟r?  M?X	   涓栫晫瑙俽?  M?X   绉瀬r?  M?X   鍙戝睍鍏氬憳r?  M?X   鍩哄眰缁勭粐r?  M?X   缁撳悎r?  M?X   閲嶈鑱岃矗r?  M?X   寮虹儓r?  M?X	   浣垮懡鎰焤?  M?X   鍒囧疄r?  M?X   鎽唕?  M?X   璁簨鏃ョ▼r?  M?X   涓婃潵r?  M?X   鍏氬憳r?  M?X   灏ゅ叾r?  M?X   鍏氬憳骞查儴r?  M?X   涓ユ牸瑕佹眰r?  M?X   浠ヨ韩浣滃垯r?  M?X   韬綋鍔涜r?  M?X   閬撳痉淇吇r?  M?X   妤锋ār?  M?X   瑷€浼爎?  M?X   韬暀r?  M?X	   鐩哥粨鍚坮?  M?X   鐪熺悊r?  M?X   鍔涢噺r?  M?X   浜烘牸r?  M?X   鐩竢?  M?X   缁熶竴r  M?X   鍚﹀垯r   M?X   姝ｅr  M?X   涓ヨ們r  M?X   鍦ㄧ簿绁炰笂r  M?X   姝﹁r  MX   锛乺  M X   濮嬬粓r  MX   涓ユ牸绠＄悊r  MX   寮曞r  MX   鑷r	  MX   绾︽潫r
+  MX   璁よ瘑r  MX   鍏绘垚鏁欒偛r  MX   韬r  MX   浣撻獙r  M	X   閫愭r  M
+X   鏀归€爎  MX   瀹㈣r  MX   鐣宺  MX   涓昏r  MX   寰幆寰€澶峳  MX   琚姩r  MX   鍙榬  MX   涓诲姩r  MX	   浠栧緥鍙榬  MX   鑷緥r  MX   缁坮  MX   杞寲r  MX   琛屼负瑙勮寖r  MX   鍖栦负r  MX   浠庤€宺  MX   鏀跺埌r  MX   瀹炴晥r   MX   19960102r!  MX   5r"  MX   涓婃捣r#  MX   寮€璁緍$  MX   閭撳皬骞崇悊璁簉%  M X   璇剧▼r&  M!X	   閮ぜ鍗巖'  M"X   /r(  M#X   鐜嬭緵r)  M$X   涓€鏈坮*  M%X   涓€鏃+  M&X   鐢祌,  M'X   涓€涔濅節鍏璻-  M(X   涓€涔濅節涓價.  M)X   瀛﹀勾r/  M*X	   涓婃捣甯俽0  M+X   鍥涘崄r1  M,X   鍏ㄥ競r2  M-X   涓湁r3  M.X   棰嗗r4  M/X	   鏈夋楠5  M0X   绀緍6  M1X   涓讳箟鐞嗚r7  M2X   銆巖8  M3X   杩況9  M4X   璇惧爞r:  M5X   鏁欐潗r;  M6X   澶磋剳r<  M7X   銆弐=  M8X   鏁欎功鑲蹭汉r>  M9X   鍘诲勾r?  M:X	   涓婂崐骞磖@  M;X	   甯傛暀鍗玶A  M<X   鍏氬rB  M=X   涓€涔濅節浜斿勾rC  M>X   绉嬪rD  M?X   鍚勬牎rE  M@X   涓诲共rF  MAX   褰㈡€乺G  MBX   姝よrH  MCX   宸叉湁rI  MDX   涓塺J  MEX	   鍗佸洓鎵€rK  MFX   蹇呬慨rL  MGX   璇緍M  MHX   椹厠鎬濅富涔塺N  MIX	   鐞嗚璇緍O  MJX	   鏁欒偛璇緍P  MKX   鎺㈢储rQ  MLX	   鏂版€濊矾rR  MMX   鍒濇rS  MNX	   澶у鐢焤T  MOX   娆㈣繋rU  MPX   澶嶆棪澶уrV  MQX   涔漴W  MRX   鍥涚骇rX  MSX	   涓€鍗冨悕rY  MTX   闂嵎璋冩煡rZ  MUX   涔濈櫨r[  MVX	   涓冨崄涓價\  MWX   鏁欑▼r]  MXX   鏅亶璁や负r^  MYX   涓€闂╮_  MZX   褰撲唬r`  M[X	   蹇呬慨璇緍a  M\X   鑾风泭鍖祬rb  M]X   鍗庝笢鐞嗗伐rc  M^X   瀛﹀湪rd  M_X	   姣忓鏈焤e  M`X	   鏃犺鍚峳f  MaX   鎶曠エrg  MbX   娴嬭瘯rh  McX   杩欎竴ri  MdX   寰楀垎rj  MeX   灞卹k  MfX	   鍏叡璇緍l  MgX   鍓嶅垪rm  MhX   绌哄啗rn  MiX   宸ョ▼瀛﹂櫌ro  MjX   搴斿眾rp  MkX   鍐冲績rq  MlX   鍩哄眰rr  MmX   鏂藉睍鎵嶈兘rs  MnX   瑗垮畨rt  MoX	   閫氳鍛榬u  MpX	   鏈辨櫤鍫俽v  MqX   鍏ㄩ儴rw  MrX   鏈嶄粠缁勭粐rx  MsX   鍒嗛厤ry  MtX   鐧惧垎涔嬩竷鍗乺z  MuX   瀛﹀憳r{  MvX   鑹拌嫤r|  MwX   鏈哄姟r}  MxX   閮ㄩ槦r~  MyX   鑸┖r  MzX   缁翠慨r€  M{X   楂樼瓑r?  M|X   缁濆ぇ澶氭暟r?  M}X   鏉ヨ嚜r?  M~X   姣旇緝鍙戣揪r?  MX   鎬ラ渶r?  M€X   澶уr?  M?X   瑗垮寳r?  M?X   涓滃寳r?  M?X   鍗庡寳r?  M?X   鍋忓兓r?  M?X   灞卞尯r?  M?X   鏀惧純r?  M?X   鍥炲r?  M?X   涔?  M?X   鐢樻効r?  M?X   杈冨樊r?  M?X   缁忓父r?  M?X   鍕ゅr?  M?X   涓ヨ皑r?  M?X   姹傚疄r?  M?X   鐚韩r?  M?X   闄㈣r?  M?X   澶栧満r?  M?X   瀹炰範r?  M?X   娲诲姩r?  M?X	   鏈夋剰璇唕?  M?X   鑹拌嫤鐜r?  M?X   鎽旀墦r?  M?X   纾ㄧ偧r?  M?X   閫恟?  M?X   姝ュ湴r?  M?X   涓嶇晱鑹伴毦r?  M?X	   鎬曞悆鑻?  M?X   鍙戝嚭r?  M?X   姣時?  M?X   鎰忓悜r?  M?X   琛╮?  M?X   寰佹眰r?  M?X   闄?  M?X   杩樺悓r?  M?X   鍛榬?  M?X   瀵硅瘽r?  M?X   鍒嗛厤鍘熷垯r?  M?X   瑙勫畾r?  M?X   鍚勭郴r?  M?X	   瀛﹀憳闃焤?  M?X   璁ょ湡r?  M?X   璋冩煡r?  M?X   鎽稿簳r?  M?X   鏍规嵁r?  M?X   鐗归暱r?  M?X   韬玶?  M?X   鏈汉r?  M?X   鎰忔効r?  M?X   鍝佸痉r?  M?X   瀹為檯鍥伴毦r?  M?X   鍒跺畾r?  M?X   棰勬r?  M?X   浜茶嚜r?  M?X   娣卞叆r?  M?X   浜嗚Вr?  M?X   寰€灞妑?  M?X   鎯卹?  M?X   鍐靛強r?  M?X   杩欏眾r?  M?X   涓婂矖r?  M?X   鍓峳?  M?X   鍩硅r?  M?X   鍚庤兘r?  M?X   灏藉揩r?  M?X   鏈亴宸ヤ綔r?  M?X   鍋氬ソr?  M?X   杩樼粰r?  M?X   瀹堕暱r?  M?X   瀵绘眰r?  M?X   鐞嗚Вr?  M?X   鏀寔r?  M?X   婀栧寳r?  M?X	   瀛濇劅甯俽?  M?X   閫€浼戝伐浜簉?  M?X	   閭撹強棣檙?  M?X   鑰佷即r?  M?X   韬偅r?  M?X   閲嶇梾r?  M?X   鍥伴毦r?  M?X   淇′腑r?  M?X   鍐欓亾r?  M?X   璋乺?  M?X   瀛╁瓙r?  M?X   鍥炲埌r?  M?X   鐖舵瘝r?  M?X   韬竟r?  M?X   鍎垮瓙r?  M?X	   鏂囩尞鍙穜?  M?X   1r?  M?X   鍘熸枃r?  M?X   鍑哄r?  M?X   璐㈢粡r?  M?X   鍘熷垔r?  M?X   鍦板悕r?  M?X   鍗楁槍r?  M?X   鏈熷彿r?  M?X   199906r?  M?X   椤祌?  M?X   24r?  M?X   锝瀝?  M?X   28r?  M?X   鍒唕?  M?X   绫籸?  M?X   D5r?  M?X   澶嶅嵃r?  M?X   199909r?  M?X   鏍规湰閫斿緞r?  M?X	   瑭圭湡鑽?  M?X   浣滆€呯畝浠媟?  M?X   灞变笢澶уr?  M?X   鍥介檯r?  M?X	   鍗氬＋鐢焤?  M?X   鍥芥皯缁忔祹r?  M?X   闀挎湡浠ユ潵r?  M?X   澶╃劧r?  M?X   涔嬮棿r?  M?X	   浜掕ˉ鎬?  M?X   杈冨己r?  M?X   瑗块儴r?  M?X   鍦板ぇ鐗╁崥r?  M?X   鍒╃敤r  M?X   鑽夊師r   M?X   绾  M?X   鍗爎  M?X   鍦熷湴r  M?X   29%r  MX   94.9%r  M X   浜斿ぇr  MX   鐗у満r  MX   鍧噐  MX   灏戞暟姘戞棌r	  MX   妫灄r
+  MX   7.18r  MX   浜夸憨r  MX   41%r  MX	   钃勭Н閲弐  M	X   鎬籸  M
+X   51.1%r  MX   姘村埄璧勬簮r  MX	   钑磋棌閲弐  MX   52.5%r  MX   杩樻湁r  MX   鐓  MX   鐭虫补r  MX	   閾佺熆鐭硆  MX   闈為噾灞炵熆r  MX   鏈夎壊閲戝睘r  MX   鍌ㄩ噺r  MX   鑷劧璧勬簮r  MX   鐗╄川鏉′欢r  MX   涓滈儴r  MX   娌挎捣鍦板尯r  MX   璐玶  MX   涔弐   MX   寮€鍙憆!  MX   鏃﹔"  MX   寮€鍙戝埄鐢╮#  MX   绋嬪害r$  MX   鍏秗%  M X   璧勬簮r&  M!X   闇€姹俽'  M"X	   瓒婃潵瓒妑(  M#X   蹇呬笉鍙皯r)  M$X   鐗╄川鍩虹r*  M%X   鎸佺画r+  M&X   鍚庡姴r,  M'X   鎵€鍦╮-  M(X   濡傛r.  M)X   涓浗鍏变骇鍏歳/  M*X   涓€鍐嶅己璋價0  M+X   灏戞暟r1  M,X   鏃弐2  M-X   鍗硆3  M.X   鐗╀骇r4  M/X   姹夋棌r5  M0X   浜哄彛浼楀r6  M1X   宸ㄥぇr7  M2X   浜哄姏璧勬簮r8  M3X   鍔犲揩r9  M4X   涔冭嚦r:  M5X   杩涚▼r;  M6X   鍔犻€焤<  M7X   渚濇墭r=  M8X   绋冲畾r>  M9X	   鍑犲崄绉峳?  M:X   灞呬綇r@  M;X   钑磋棌rA  M<X   鐗╄川璐㈠瘜rB  M=X	   澶氬緱寰坮C  M>X   娉╮D  M?X   閫夐泦rE  M@X   绗瑀F  MAX   鍗穜G  MBX   1977rH  MCX   骞寸増rI  MDX   214rJ  MEX   澶╀笂rK  MFX   绌烘皵rL  MGX   鍦颁笂rM  MHX   鍦颁笅rN  MIX   瀹濊棌rO  MJX   鍥犵礌rP  MKX   涓€鍒噐Q  MLX   鐗╄川rR  MMX   鎼炲ソrS  MNX   宸╁浐rT  MOX   鍥㈢粨rU  MPX   鍏卞悓鍔姏rV  MQX   浼熷ぇrW  MRX   钁椾綔rX  MSX   閫夎rY  MTX   涓嬪唽rZ  MUX   浜烘皯鍑虹増绀緍[  MVX   733r\  MWX   鐢辨r]  MXX   鐪媟^  MYX   鐪嬩綔r_  MZX   鏂畾r`  M[X	   绂讳笉寮€ra  M\X   椹垪涓讳箟rb  M]X	   鍙戝睍鍙瞨c  M^X   灏氬睘rd  M_X   棣栨re  M`X   鍥犺€宺f  MaX   瀹濆簱rg  MbX   骞翠唬rh  McX   鏍稿績ri  MdX	   绗笁浠j  MeX   涓ぎrk  MfX   棰嗗闆嗕綋rl  MgX	   杩涗竴姝m  MhX   缁忔祹绀句細rn  MiX   椤哄埄瀹炵幇ro  MjX   鍚宺p  MkX   瀵嗕笉鍙垎rq  MlX   浜掔浉淇冭繘rr  MmX   鈥s  MnX	   鐢熶骇鍔況t  MoX   鍚堢悊甯冨眬ru  MpX   閲嶅ぇrv  MqX   缁熶竴鎴樼嚎rw  MrX   鏂囩尞閫夌紪rx  MsX   缁紪ry  MtX   涓叡涓ぎ鍏氭牎rz  MuX	   鍑虹増绀緍{  MvX   1997r|  MwX   386r}  MxX   38r~  MyX   7r  MzX   鎬讳箣r€  M{X   鎴戝厷r?  M|X   鍏氬拰鏀垮簻r?  M}X   鐞嗚渚濇嵁r?  M~X   璇氬績璇氭剰r?  MX   鎴愮珛r?  M€X   杩呴€焤?  M?X   鍒讳笉瀹圭紦r?  M?X   浜嬫儏r?  M?X   骞崇瓑鏉冨埄r?  M?X   閲峳?  M?X   1952r?  M?X   鎺ヨr?  M?X   瑗胯棌r?  M?X   鑷存暚r?  M?X   鍥㈡椂r?  M?X   鏇緍?  M?X   灏栭攼r?  M?X   甯畆?  M?X   鍔﹔?  M?X   浣犱滑r?  M?X   浜哄彛r?  M?X   鐢ㄥr?  M?X   浜烘皯鏃ユ姤r?  M?X   22r?  M?X   1953r?  M?X   10r?  M?X   鍥藉簡r?  M?X   绀煎洟r?  M?X   璋堣瘽r?  M?X   1954r?  M?X   6r?  M?X   29r?  M?X   杩欓噷r?  M?X	   浜嬪疄涓妑?  M?X   骞崇瓑r?  M?X   鎽嗗埌r?  M?X   鍏ㄥ眬r?  M?X   鏀跨瓥r?  M?X   娉曞緥r?  M?X   涓绘寔r?  M?X   瀹硶r?  M?X   鐪嬫垚r?  M?X   姘戞棌鍖哄煙r?  M?X   鑷不r?  M?X   鐪熸r?  M?X   鍚勬棌浜烘皯r?  M?X   鍙潬淇濊瘉r?  M?X   閴翠簬r?  M?X   128r?  M?X   搴忚█r?  M?X   鏄庢枃瑙勫畾r?  M?X   杩囩▼涓皢r?  M?X   鐓ч【r?  M?X   鏀箁?  M?X   閫爎?  M?X   涓婂皢r?  M?X   鍏呭垎r?  M?X   娉ㄦ剰r?  M?X   72r?  M?X   鏉′笂r?  M?X   涓婄骇r?  M?X   鍥藉鏈哄叧r?  M?X   淇濋殰r?  M?X	   鑷不鍖簉?  M?X	   鑷不宸瀝?  M?X	   鑷不鍘縭?  M?X   鏈哄叧r?  M?X   琛屼娇r?  M?X	   鑷不鏉價?  M?X   骞朵笖r?  M?X   1956r?  M?X   鑻忚仈r?  M?X   淇剅?  M?X   缃楁柉r?  M?X   鍚岄潪r?  M?X   淇勭綏鏂棌r?  M?X   姝ｅ父r?  M?X   鏁欒r?  M?X   鍗佸ぇr?  M?X   涓€鏂噐?  M?X   鍛介r?  M?X   1963r?  M?X   鏂扮枂r?  M?X   鎸囩ずr?  M?u(X   娴巖?  M?X   涓€骞磖?  M?X   绻佽崳r?  M?X   杩樿r?  M?X   鍗佷竴灞婁笁涓叏浼歳?  M?X   缁х画r?  M?X   涓诲紶r?  M?X   1981r?  M?X	   鍙傝鍥?  M?X   寮鸿皟鎸囧嚭r?  M?X   缁搑?  M?X	   鎼炰笉濂絩?  M?X   鏃犱粠璋堣捣r?  M?X   闅忓悗r?  M?X   娌绘硶r?  M?X   鍔姏r?  M?X   姘戞棌鑷不r?  M?X   1992r?  M?X   浼氳r?  M?X   闃愯堪r?  M?X	   閲嶈鎬?  M?X   澶у姏鍙戝睍r?  M?X	   鐜伴樁娈祌?  M?X   鍥絩?  M?X	   闆嗕腑鍦皉?  M?X   杩垏瑕佹眰r?  M?X   鍏舵r?  M?X   鍏堣繘r?  M?X   姹塺?  M?X   杩樺€簉?  M?X   闀挎湡r?  M?X   瑕佷箞r?  M?X   鍚屽寲r?  M?X   鎴杛?  M?X   姝цr?  M?X   鎸?  M?X   杈圭枂r?  M?X   楂樺師r?  M?X   楂樺北r?  M?X   娌欐紶r?  M?X   鍦板甫r?  M?X   鍔ｅ娍r?  M?X	   寰椾笉鍒皉  M?X   浠庢牴鏈笂r   M?X   閬楃暀涓嬫潵r  M?X   鐩稿綋r  M?X   鎵嶈r  M?X   甯姪鍚庤繘r  MX   鍚庤繘r  M X   璁╂r  MX   瀹藉r  MX   鍒涢€犳€у湴r  MX   鎬佸害r	  MX	   鍛ㄦ仼鏉
+  MX	   瀵逛笉璧穜  MX   鏂囩尞r  MX   1984r  MX   192r  M	X   鎵胯r  M
+X   鏇剧粡r  MX   缁檙  MX   鐢熷瓨r  MX   涓嶅埄r  MX   浜嬪疄r  MX   鍚憆  MX   璧攔  MX   璁瞨  MX   341r  MX   姣斿柣r  MX   鍚箟r  MX   灞呬簬r  MX   澶氭暟r  MX	   搴斿鏇縭  MX   姣旇緝钀藉悗r  MX   鐫€鎯硆  MX   浣滃嚭r   MX   鐗虹壊r!  MX   鍙楀r"  MX   鏇瞨#  MX   杈價$  MX   娑堥櫎r%  M X   鎹熷けr&  M!X   璁鸿瘉r'  M"X   绗﹀悎r(  M#X   姘戞棌骞崇瓑r)  M$X   鏀归潻寮€鏀緍*  M%X   鍓嶆彁鏉′欢r+  M&X   50r,  M'X   涓€鐜痳-  M(X   璐告槗r.  M)X   閭撳皬r/  M*X   骞硆0  M+X   鏂囬€塺1  M,X   1994r2  M-X   167r3  M.X   168r4  M/X   鑻弐5  M0X   缁忛獙鏁欒r6  M1X   鍙嶅寮鸿皟r7  M2X   鍟嗗搧缁忔祹r8  M3X   瀵瑰唴r9  M4X   瀵瑰寮€鏀緍:  M5X   闀垮r;  M6X   浠讳綍r<  M7X   寮€鏀炬斂绛杛=  M8X   鍒殑r>  M9X   浜哄r?  M:X   绉戝鎶€鏈痳@  M;X   2rA  M<X   199rB  M=X   91rC  M>X   钀藉悗rD  M?X   鑷劧缁忔祹rE  M@X   浠嶇劧rF  MAX   娴撻噸rG  MBX   鑹插僵rH  MCX   缁熸不rI  MDX   寮€鏀緍J  MEX   鍙よ€乺K  MFX   鐜颁唬rL  MGX	   鍘嗗彶鎬M  MHX   杞ЩrN  MIX   鍚堢悊閰嶇疆rO  MJX   澧為暱rP  MKX   鎺ㄥ姩rQ  MLX   鍏ㄩ潰鎻愰珮rR  MMX   浜哄彛绱犺川rS  MNX   鎬讳綋姘村钩rT  MOX   娲诲姏rU  MPX   姝ヤ紣rV  MQX   鍏呭垎鍒╃敤rW  MRX   缁撲氦rX  MSX   浼欎即rY  MTX   寮€鎷搑Z  MUX   鎴榬[  MVX   绾縭\  MWX   391r]  MXX   褰㈠娍r^  MYX	   涔嬫墍浠_  MZX   閲嶈閫斿緞r`  M[X   涓嶅彲閫捐秺ra  M\X   鍔姏瀹炵幇rb  M]X	   宸ヤ笟鍖杛c  M^X	   绀句細鍖杛d  M_X	   甯傚満鍖杛e  M`X   涓绘祦rf  MaX   淇冭繘rg  MbX   鑱氬悎浣滅敤rh  McX   鎵撶牬ri  MdX   闂磖j  MeX   澹佸瀿rk  MfX   妯悜鑱旂郴rl  MgX	   鍑濊仛鍔況m  MhX	   鍔冲姩鍔況n  MiX   鑷敱ro  MjX   娴佸姩rp  MkX   鍔犳繁rq  MlX   鍙嬭皧rr  MmX   鍚堜綔rs  MnX   3rt  MoX   蹇呭皢ru  MpX   鍐呴儴rv  MqX   杩借刀rw  MrX   鍥況x  MsX   缂╁皬ry  MtX   鍩烘湰鏂归拡rz  MuX   澶у姏r{  MvX   浼樻儬r|  MwX   鑷姏鏇寸敓r}  MxX   瑙掑害r~  MyX   鍔ㄥ姏r  MzX   濂嬪彂鍥惧己r€  M{X   鍏呭垎璋冨姩r?  M|X	   绉瀬鎬?  M}X	   鏃犵┓鐨剅?  M~X   鏅烘収r?  MX   鏃犳暟r?  M€X   浜嬪疄璇佹槑r?  M?X   鍕ゅ姵r?  M?X   鍕噐?  M?X   鏁?  M?X   閿荤偧r?  M?X   涓嬪嵎r?  M?X   263r?  M?X   鍥虹劧r?  M?X   鎺掓枼r?  M?X   涓€鑸潵璇磖?  M?X	   搴曞瓙钖剅?  M?X   宸畆?  M?X   鍙戝睍缂撴參r?  M?X   涓嶅钩琛℃€?  M?X	   瓒婃媺瓒妑?  M?X   寤哄浗浠ユ潵r?  M?X   浠ヤ笅r?  M?X	   鏈夊埆浜巖?  M?X   浼樻儬鏀跨瓥r?  M?X   鑼冨洿r?  M?X   娑夊強r?  M?X   璐㈡斂r?  M?X   绋庢敹r?  M?X   閲戣瀺r?  M?X   鍩虹璁炬柦r?  M?X   鍐滀笟r?  M?X   鎵惰传r?  M?X   澶氳揪r?  M?X   浣欓」r?  M?X   浜屾槸r?  M?X   缁勭粐r?  M?X   瀵瑰悓r?  M?X   鍙?  M?X   鏀彺r?  M?X   鎶€鏈崗浣渞?  M?X   缁忚惀r?  M?X   绠＄悊姘村钩r?  M?X   鎶€鏈按骞硆?  M?X   娌挎捣r?  M?X   鍐呭湴r?  M?X   鐪佸寘r?  M?X   鐪乺?  M?X	   涓€涓嬪瓙r?  M?X   璐熸媴r?  M?X   澶噸r?  M?X   鎶€鏈浆璁﹔?  M?X   灏嗘潵r?  M?X   鎬绘湁涓€澶﹔?  M?X   瀵岃r?  M?X	   澶у鏁皉?  M?X   浜虹┓r?  M?X   閭ｄ釜r?  M?X   鏍峰瓙r?  M?X	   浼樿秺鎬?  M?X   涓ゆ瀬鍒嗗寲r?  M?X   姘戞棌鐭涚浘r?  M?X	   鍖哄煙闂磖?  M?X   闃剁骇鐭涚浘r?  M?X   鐩稿簲r?  M?X   鍑轰贡r?  M?X   瀛恟?  M?X   1993r?  M?X   364r?  M?X	   涓滆タ閮╮?  M?X   鐗瑰埆r?  M?X   20r?  M?X   骞存潵r?  M?X   1980r?  M?X   1990r?  M?X   浜斾釜r?  M?X   浜戝崡r?  M?X   璐靛窞r?  M?X   闈掓捣r?  M?X   灏憆?  M?X   鏁皉?  M?X   鑱氬眳r?  M?X   瀹氶r?  M?X   琛ュ姪r?  M?X   杈緍?  M?X   1000r?  M?X   浜垮厓r?  M?X   1979r?  M?X   涓猺?  M?X   鍗忎綔r?  M?X   椤圭洰r?  M?X	   鍑犲崈涓猺?  M?X   閲戦r?  M?X	   鏁颁嚎鍏價?  M?X   寮曡繘r?  M?X	   涓囦汉娆?  M?X   绉戞妧浜哄憳r?  M?X   鏁板崈r?  M?X   浜烘r?  M?X   闂存帴r?  M?X   缁忔祹鏁堢泭r?  M?X	   鏁板崄浜縭?  M?X   璁?  M?X   鍔犲ぇr?  M?X   鍔涘害r?  M?X   姣忓勾r?  M?X   鏂板r?  M?X   6000r?  M?X   涓囧厓r?  M?X   璧勯噾r?  M?X   鎵舵寔r?  M?X   瑗垮崡r?  M?X   璐洶鍦板尯r?  M?X   1996r?  M?X   鍖簉?  M?X   绔ｅ伐r?  M?X   寮€宸?  M?X   骞胯タr?  M?X   妗傛灄r?  M?X   涓ゆ睙r?  M?X   鏈哄満r?  M?X   寮€閫歳?  M?X   鎶曡祫r?  M?X   30r?  M?X   澶氫嚎r?  M?X   100r?  M?X   涓噐?  M?X   鍥炴棌r  M?X	   鑱氬眳鍖簉 	  M?X   璐洶浜哄彛r	  M?X   娓╅ケr	  M?X   瀹佸r	  M?X   鎵粍r	  MX   鐏屾簤宸ョ▼r	  M 	X   鍗楃枂閾佽矾r	  M	X   瑗挎r	  M	X   寤鸿宸ョ▼r	  M	X   鍗楁槅r		  M	X   閾佽矾r
+	  M	X   鏀垮簻r	  M	X   浠ュ強r	  M	X	   鍖哄煙鎬	  M	X   璐洶r	  M		X   钀藉悗闈㈣矊r	  M
+	X   鍙樺寲r	  M	X   鍚勯」r	  M	X   鏄庢樉鏀瑰杽r	  M	X   鑹ソr	  M	X   鏁堢泭r	  M	X   瀹炶返璇佹槑r	  M	X   瀹炴柦r	  M	X   鏈夊姏r	  M	X   浜掑姪r	  M	X   鏂板瀷r	  M	X   绗﹀悎鍥芥儏r	  M	X   椤轰箮姘戞剰r	  M	X   鎴愬姛r	  M	X   涓炬帾r	  M	X   鍏呭垎鑲畾r	  M	X   鎴愮哗r	  M	X   娓呴啋r 	  M	X   鐪嬪埌r!	  M	X   浠峳"	  M	X	   鎬讳汉鍙#	  M	X   20%r$	  M	X	   璐洶鍘縭%	  M 	X   42%r&	  M!	X   鏂囩洸r'	  M"	X   鍗婃枃r(	  M#	X   鐩茬巼r)	  M$	X   楂樹簬r*	  M%	X	   骞冲潎鏁皉+	  M&	X   23.23%r,	  M'	X   浣庝簬r-	  M(	X   骞冲潎姘村钩r.	  M)	X   鍏簲r/	  M*	X	   鐧惧垎鐐箁0	  M+	X   涓冧簲r1	  M,	X	   宸ュ啘涓歳2	  M-	X	   鎬讳骇鍊紃3	  M.	X   浜у€紃4	  M/	X   姣旈噸r5	  M0	X   1982r6	  M1	X   6.9%r7	  M2	X   涓嬮檷r8	  M3	X   1988r9	  M4	X   6.1%r:	  M5	X   56.1%r;	  M6	X   闄嶄负r<	  M7	X   52.2%r=	  M8	X   46.1%r>	  M9	X   鍏玶?	  M:	X   鐪佸尯r@	  M;	X   鍥芥皯鏀跺叆rA	  M<	X   1989rB	  M=	X   鎵╁ぇrC	  M>	X   843rD	  M?	X   626rE	  M@	X   205rF	  MA	X   3.3rG	  MB	X   鍊峳H	  MC	X   2.9rI	  MD	X   .rJ	  ME	X	   鏃犺鏄痳K	  MF	X   棰漴L	  MG	X   杩樻槸rM	  MH	X	   缁濆棰漴N	  MI	X   瓒嬪娍rO	  MJ	X	   鍘熷垯涓妑P	  MK	X   鎵浆rQ	  ML	X   灏嗕細rR	  MM	X   绱у紶rS	  MN	X	   璐瑰瓭閫歳T	  MO	X	   涓€涔︿腑rU	  MP	X   鍒嗘瀽rV	  MQ	X   浜х敓rW	  MR	X   瀵艰嚧rX	  MS	X   鍓嶈溅涔嬮壌rY	  MT	X	   鍐充笉鑳絩Z	  MU	X   閲嶈箞r[	  MV	X   瑕嗚緳r\	  MW	X   杞紩r]	  MX	X   鏈熺r^	  MY	X   鍥藉湡闈㈢Нr_	  MZ	X   64.5%r`	  M[	X   钀藉悗鐘跺喌ra	  M\	X   鍏勫紵rb	  M]	X   鍖哄煙rc	  M^	X   姘歌繙rd	  M_	X   涓嬪幓re	  M`	X   閿欒rf	  Ma	X   閫塺g	  Mb	X   266rh	  Mc	X   杩噐i	  Md	X   澶辫触rj	  Me	X   鎺ヨ繎rk	  Mf	X   璧惰秴rl	  Mg	X   鏈€缁坮m	  Mh	X   杈惧埌rn	  Mi	X   涓€澶o	  Mj	X   涓€椤箁p	  Mk	X   鍘嗗彶浣垮懡rq	  Ml	X   楂樺害閲嶈rr	  Mm	X   瀹炶川rs	  Mn	X   浜掑姪鍚堜綔rt	  Mo	X   灞€闈u	  Mp	X	   鐩搁€傚簲rv	  Mq	X   姘戞棌鍥㈢粨rw	  Mr	X   鍒涢€犳潯浠秗x	  Ms	X   鍖栫瓑ry	  Mt	X   鍚勯」浜嬩笟rz	  Mu	X   鎸囧r{	  Mv	X   涓滄r|	  Mw	X   鍘嗗彶鏁欒r}	  Mx	X   宸叉繁r~	  My	X   鍏	  Mz	X   浜哄績r€	  M{	X   鍐崇瓥浜哄憳r?  M|	X   鎸囧鎬濇兂r?  M}	X   鐩镐俊r?  M~	X   鍗冲皢鏉ヤ复r?  M	X   21r?  M€	X   闅忕潃r?  M?X   杞悜r?  M?X	   涓タ閮╮?  M?X   灞時?  M?X   澶уぇr?  M?X   璐ｄ换缂栬緫r?  M?X	   榫氭睗瀵宺?  M?X	   娓╁皬鍐況?  M?X   鍙傝€冩枃鐚畆?  M?X	   鏋滄椽澶杛?  M?X	   閲戠偝闀恟?  M?X   涓荤紪r?  M?X   涓ぎ姘戞棌澶уr?  M?X   鏉傚織r?  M?X   瀛︿細r?  M?X   涓诲姙r?  M?X   41r?  M?X   鏈熻嚦r?  M?X   58r?  M?X   1104r?  M?X   鏁伴噺r?  M?X   200001r?  M?X   8r?  M?X   F511r?  M?X   鍟嗕笟r?  M?X   浼佷笟r?  M?X   200006r?  M?X   鐢靛瓙鍟嗗姟r?  M?X	   澧為暱鐐箁?  M?X	   閮戝弸鏁瑀?  M?X   浣滆€卹?  M?X   淇℃伅r?  M?X   缁撴瀯r?  M?X   缃戠粶r?  M?X   杩呯寷鍙戝睍r?  M?X   淇℃伅澶勭悊r?  M?X   浼犻€抮?  M?X   绐佺牬r?  M?X   鏃剁┖r?  M?X   鍦板煙r?  M?X   鐣岄檺r?  M?X	   缃戠粶鍖杛?  M?X	   鍏ㄧ悆鍖杛?  M?X   椋為€熷彂灞時?  M?X   鎶楁嫆r?  M?X   涓栫晫娼祦r?  M?X   杩欐r?  M?X   娴疆r?  M?X   鍒版潵r?  M?X   杩呯寷r?  M?X   娣辫繙r?  M?X   鍙楃泭r?  M?X   闈箣r?  M?X   骞挎硾r?  M?X   瓒呰繃r?  M?X   涓€娆?  M?X   涓嶈r?  M?X   鏍煎眬r?  M?X   璋冩暣r?  M?X   浠庣幇鍦ㄨ捣r?  M?X   鍙橀潻r?  M?X   娼滃湪r?  M?X	   浜掕仈缃憆?  M?X   鐐瑰皢r?  M?X   鍏ㄦ柊r?  M?X   鍟嗗姟r?  M?X   妯″紡r?  M?X
+   Electronicr?  M?X   Commercer?  M?X   鐢靛瓙r?  M?X   鍟嗗姟娲诲姩r?  M?X   鎬荤Оr?  M?X   璁＄畻鏈虹綉缁渞?  M?X   涔板崠鍙屾柟r?  M?X   鎭痳?  M?X   浜у搧r?  M?X   閿€鍞畆?  M?X   鏀粯r?  M?X   鎸塺?  M?X   璁ゅ悓r?  M?X   浜ゆ槗r?  M?X	   浜т笟鐣宺?  M?X   浜哄＋r?  M?X	   绠€鑰屾槑r?  M?X   鐢靛瓙濯掍綋r?  M?X	   鍋氱敓鎰弐?  M?X   缃戜笂r?  M?X   涔板崠r?  M?X   绉籸?  M?X   涓攔?  M?X   椤惧r?  M?X	   閿€鍞晢r?  M?X	   渚涘簲鍟唕?  M?X   閾惰r?  M?X   绯荤粺r?  M?X   鍏徃r?  M?X   璇佸埜鍏徃r?  M?X   鏈烘瀯r?  M?X   閰嶉€乺?  M?X   鐩稿叧r?  M?X   浜哄憳r?  M?X   鏋舵瀯r?  M?X   涓嬭竟r?  M?X   鏅€歳?  M?X	   娑堣垂鑰卹?  M?X   璐墿r?  M?X   涓轰緥r?  M?X   閫夋嫨r?  M?X   鏌ヨr?  M?X   娆瞨?  M?X   鍝乺?  M?X   鎶夋嫨r?  M?X   杈撳叆r?  M?X   璁㈠崟r?  M?X   鍟嗗搧鍚嶇Оr?  M?X   閫佽揣r?  M?X   鍦扮偣r?  M?X	   鏀惰揣浜簉?  M?X   鍟嗗r?  M?X   鍥炲簲r?  M?X   绔嬪嵆r?  M?X   鍥炲r	  M?X   鍟嗗搧r 
+  M?X   鍗曚环r
+  M?X	   搴斾粯娆緍
+  M?X   绋庨r
+  M?X   杩愯垂r
+  M	X   浜よ揣r
+  M 
+X   纭r
+  M
+X   涓婅堪r
+  M
+X   閽卞寘r
+  M
+X   浠樻r	
+  M
+X   瑁呭叆r
+
+  M
+X   鍙ｄ护r
+  M
+X   浣跨敤r
+  M
+X	   淇＄敤鍗
+  M
+X   鍙风爜r
+  M	
+X   鍔犲瘑r
+  M
+
+X   閫乺
+  M
+X   妫€楠宺
+  M
+X   鏈夋晥r
+  M
+X   閫氱煡r
+  M
+X   鍑嗗r
+  M
+X	   閫佽揣鍒皉
+  M
+X   閭眬r
+  M
+X   浠卹
+  M
+X   绉抮
+  M
+X   鐩告瘮r
+  M
+X   绌哄墠r
+  M
+X	   楂樻晥鐜噐
+  M
+X	   浣庢垚鏈瑀
+  M
+X   鍒涙柊r
+  M
+X	   澶ч潻鍛絩
+  M
+X   杩欏満r
+  M
+X	   鏍规湰鎬 
+  M
+X   鍑犱釜r!
+  M
+X   绐佸嚭r"
+  M
+X   鐗瑰緛r#
+  M
+X   鍏ㄧ悆r$
+  M
+X	   鍟嗕笟鎬%
+  M 
+X   鍥界晫r&
+  M!
+X   寮€杈焤'
+  M"
+X   绌洪棿r(
+  M#
+X   宸ㄩr)
+  M$
+X   鍟嗕笟鍒╂鼎r*
+  M%
+X   褰㈣薄r+
+  M&
+X   灏弐,
+  M'
+X   鍟嗙晫r-
+  M(
+X   澶т簬r.
+  M)
+X   鏂逛究蹇嵎r/
+  M*
+X   鎬0
+  M+
+X   鏈€蹇玶1
+  M,
+X   閫熷害r2
+  M-
+X   璐拱r3
+  M.
+X   娆叉湜r4
+  M/
+X   涓嶅嚭r5
+  M0
+X   灞媟6
+  M1
+X   鑳借喘r7
+  M2
+X   鐗﹔8
+  M3
+X   鐧惧r9
+  M4
+X   鍑洪棬r:
+  M5
+X   鑳藉姙r;
+  M6
+X	   澶╀笅浜媟<
+  M7
+X	   娓楅€忔€=
+  M8
+X	   鍑犲崈骞磖>
+  M9
+X   鍟嗕笟妯″紡r?
+  M:
+X   杞彉r@
+  M;
+X   瀹炵墿rA
+  M<
+X   浜B
+  M=
+X   鎹C
+  M>
+X   搴旂敤rD
+  M?
+X   绾稿竵rE
+  M@
+X   娓犻亾rF
+  MA
+X   鐙皬rG
+  MB
+X   渚涜揣娓犻亾rH
+  MC
+X   鐣卹I
+  MD
+X   涓棿鐜妭rJ
+  ME
+X   澶rK
+  MF
+X   鐢ㄦ埛rL
+  MG
+X   鎴愭湰rM
+  MH
+X   鑶ㄨ儉rN
+  MI
+X   濞佽儊rO
+  MJ
+X   妯P
+  MK
+X   寮弐Q
+  ML
+X   浠ｆ浛rR
+  MM
+X   鏍规繁钂傚浐rS
+  MN
+X   缁撴灉rT
+  MO
+X   浜U
+  MP
+X   渚況V
+  MQ
+X   閿€rW
+  MR
+X   璺緞rX
+  MS
+X   浜洪檯rY
+  MT
+X   鏋佸ぇrZ
+  MU
+X   闄嶄綆r[
+  MV
+X   閲囪喘r\
+  MW
+X   鎴恟]
+  MX
+X   鐢熶骇鎴愭湰r^
+  MY
+X	   閫夋嫨鎬_
+  MZ
+X   鏈夊舰r`
+  M[
+X   鏃犲舰ra
+  M\
+X   鏈夌焊rb
+  M]
+X   鏃犵焊rc
+  M^
+X   绾稿寲rd
+  M_
+X	   鏃犵焊鍖杛e
+  M`
+X   鍔炲叕rf
+  Ma
+X   鏃犵枒rg
+  Mb
+X   鏂箁h
+  Mc
+X   鎬濈淮ri
+  Md
+X	   杩戝嚑骞磖j
+  Me
+X	   鍑犲崄鍊峳k
+  Mf
+X   鐧惧€峳l
+  Mg
+X   涓庢鍚屾椂rm
+  Mh
+X   澶氶€塺n
+  Mi
+X   鎷╂€o
+  Mj
+X   鍟嗗搧淇℃伅rp
+  Mk
+X   瑙嗚薄rq
+  Ml
+X   澶氱被rr
+  Mm
+X   鑷€塺s
+  Mn
+X   涓€鏉t
+  Mo
+X   鏂拌矾ru
+  Mp
+X	   涓€浣撳寲rv
+  Mq
+X	   淇℃伅鍖杛w
+  Mr
+X	   鏂拌矾瀛恟x
+  Ms
+X   閫夋柊ry
+  Mt
+X   濉戞柊rz
+  Mu
+X   褰撲粖r{
+  Mv
+X   鍘熷洜r|
+  Mw
+X   濂囧揩r}
+  Mx
+X   鍓嶆櫙r~
+  My
+X   璇变汉r
+  Mz
+X   浜т笟缁撴瀯r€
+  M{
+X   浼樺寲r?  M|
+X   鎺ㄨ繘r?  M}
+X   璺痳?  M~
+X   闆嗕腑r?  M
+X   鏋佸己r?  M€
+X   鍊嶅r?  M?X   鏋侀珮r?  M?X   鍟嗗搧浜ゆ槗r?  M?X   鍚噺r?  M?X   澶氬r?  M?X   鍚勫浗r?  M?X   璧峰埌r?  M?X   浜虹被r?  M?X   闄勪簬r?  M?X   淇℃伅缃戠粶r?  M?X   鏅強r?  M?X   闄勫姞r?  M?X	   缁忔祹甯?  M?X   宕柊r?  M?X   鐭ヨ瘑缁忔祹r?  M?X   榫欏ごr?  M?X   璺笂r?  M?X   鏍囧織r?  M?X	   闆嗙害鍖杛?  M?X   甯﹀姩r?  M?X   搴?  M?X   婧恟?  M?X   涓嶅簲r?  M?X   娌胯r?  M?X   瑗挎柟r?  M?X   鍏坮?  M?X   鑰佽矾r?  M?X   璧板嚭r?  M?X   璧扮敤r?  M?X   淇℃伅鎶€鏈痳?  M?X   浼犵粺浜т笟r?  M?X   閭ｇr?  M?X   璧勯噾鎶曞叆r?  M?X   鎶曞叆r?  M?X   鐗╄祫r?  M?X	   瀵嗛泦鍨媟?  M?X	   淇℃伅娴乺?  M?X   鐗╂祦r?  M?X   浜烘祦r?  M?X   鍟嗘祦r?  M?X	   瀹為檯涓妑?  M?X   鍟唕?  M?X   鍔?  M?X   璧勬簮閰嶇疆r?  M?X   鏀圭粍r?  M?X   楂樻晥r?  M?X   杩愯浆r?  M?X   瑕佺礌r?  M?X   閲嶆柊r?  M?X   閲嶅悎r?  M?X   灏侀棴r?  M?X   杈愬皠r?  M?X   娉㈠強r?  M?X	   鑼冨洿骞縭?  M?X   浼樺厛鍙戝睍r?  M?X	   鏈嶅姟涓歳?  M?X   鍖呰r?  M?X   鎴愬彲r?  M?X	   绉诲姩鎬?  M?X	   绀句細鎬?  M?X   鍙樻垚r?  M?X   渚挎惡r?  M?X   绻侀噸r?  M?X   鏋嚗r?  M?X   杞籸?  M?X   渚垮瀷r?  M?X	   瓒ｅ懗鎬?  M?X   娑堣垂甯傚満r?  M?X   搴炲ぇr?  M?X   铏氭嫙r?  M?X   鏄鹃湶r?  M?X   鍚嶇洰绻佸r?  M?X   甯俽?  M?X   鍦簉?  M?X   浼楀r?  M?X   鍧愬湪r?  M?X   瀹朵腑r?  M?X   鎿嶇旱r?  M?X   榧犳爣r?  M?X	   涓€绯诲垪r?  M?X	   澶氬獟浣搑?  M?X   浜よ垂r?  M?X   濞变箰r?  M?X   鏈峳?  M?X   缃戠粶骞垮憡r?  M?X   闅忔椂r?  M?X   闃呰r?  M?X   鎶ュ垔r?  M?X   鑲″競琛屾儏r?  M?X   涓氫綑鏃堕棿r?  M?X   涓板瘜澶氶噰r?  M?X   浼戦棽r?  M?X   璧勬枡r?  M?X   鎶ラ亾r?  M?X   缇庡浗r?  M?X   鏃ユ湰r?  M?X   鑻卞浗r?  M?X   鍙戣揪鍥藉r?  M?X   锛卹?  M?X	   澧炲姞鍊紃?  M?X	   淇℃伅涓歳?  M?X   浠庝笟r?  M?X   涓€鑷磖?  M?X   绗竴r?  M?X   灏芥棭r?  M?X   濉戦€爎?  M?X   鏇村ソr?  M?X   鏍憆?  M?X   褰撲粖涓栫晫r?  M?X   淇℃伅浜т笟r?  M?X   璁惧r?  M?X   鏇存柊鎹唬r?  M?X   璺熻釜r?  M?X   杩庡ごr?  M?X   寰幆r?  M?X	   鏁板崄鍊峳?  M?X	   鏁扮櫨鍊峳?  M?X   鍥介檯绔炰簤r?  M?X   濉憆?  M?X   鑱岃兘r?  M?X	   閫傛椂鍦皉?  M?X   娉曡r
+  M?X   淇濇姢r   M?X	   鎶曡祫鑰卹  M?X	   鐢熶骇鑰卹  M?X   鏉冪泭r  M?X   鍙梤  M
+X   鏈哄埗r  M X   寤洪€爎  MX   鍒況  MX   杩渞  MX   鏈猺	  MX   鐮撮櫎r
+  MX   鍨勬柇r  MX   榧撳姳r  MX   缁忔祹杩愯r  MX   鏈嶅姟璐ㄩ噺r  M	X   浠锋牸r  M
+X   杈冮暱r  MX   涓€娈垫椂闂磖  MX   涓€鎻恟  MX   浣犳鎴戞椿r  MX   鏃爎  MX   浣爎  MX   鍏跺疄r  MX   鐗囬潰r  MX	   绔炰簤鎬  MX   甯傚満鏈哄埗r  MX   绔炰簤鏈哄埗r  MX   涔嬪疂r  MX   涔嬫簮r  MX   鏈潵r  MX   鍏钩绔炰簤r  MX   鏀垮簻閮ㄩ棬r  MX   鍏抽敭鍦ㄤ簬r   MX   绉戝鍐崇瓥r!  MX   闈㈠r"  MX   婵€鐑坮#  MX   鏂瑰叴鏈壘r$  MX   鎬濊矾r%  M X   鐢佃剳r&  M!X   鐢佃瘽r'  M"X   涓€塺(  M#X   鎷﹔)  M$X   鎵撹触r*  M%X   鎶曡祫鍐崇瓥r+  M&X   瀵嗗垏鐩稿叧r,  M'X   鍚稿紩澶栬祫r-  M(X   澧炲姞r.  M)X   灏变笟r/  M*X   鏈夋晥閫斿緞r0  M+X   鍏朵竴r1  M,X   鍏朵簩r2  M-X	   鍥炴姤鐜噐3  M.X   鍏朵笁r4  M/X   甯傚満闇€姹俽5  M0X   鏃虹洓r6  M1X   澧炲€紃7  M2X   鏈嶅姟椤圭洰r8  M3X   澶氱澶氭牱r9  M4X   鍏跺洓r:  M5X   姘告棤姝㈠r;  M6X   鍙戝睍娼滃姏r<  M7X   鍊嶅彈闈掔潗r=  M8X   鍐崇瓥r>  M9X   涓嶆柇鎵╁ぇr?  M:X   瑙勬ār@  M;X   宸ヤ笟rA  M<X   娼滃姏rB  M=X   棣栭兘鍖椾含rC  M>X   鑰岃█rD  M?X   60rE  M@X   澶氭墍rF  MAX	   鐧句綑鎵€rG  MBX   璇稿rH  MCX   澶栧浗rI  MDX   椹讳含rJ  MEX   鍟嗙ぞrK  MFX   寮哄ぇrL  MGX   鍚庣浘rM  MHX   澶╂触rN  MIX   骞垮窞rO  MJX   鍩庡競rP  MKX   鑱氶泦rQ  MLX	   璁＄畻鏈簉R  MMX   鐢靛瓙璁惧rS  MNX   杞欢寮€鍙憆T  MOX   鎷ユ湁rU  MPX   鍜╮V  MQX   璇W  MRX   閲戣瀺淇濋櫓rX  MSX   蹇呰rY  MTX   闆勫帤rZ  MUX   瀹炲姏r[  MVX   浼樿秺r\  MWX   甯︾粰r]  MXX	   鍏ㄧ悆鎬^  MYX   浼乺_  MZX   杞笎r`  M[X   淇¤獕ra  M\X   缃戜笂璐告槗rb  M]X   绋庡姟rc  M^X   瓒呰秺rd  M_X   鍟嗙敤re  M`X   浠ｇ爜rf  MaX   璺ㄥ浗rg  MbX   绛捐鍚堝悓rh  McX   鎵嬫ri  MdX   绛惧悕rj  MeX   閴村埆rk  MfX   璁よ瘉rl  MgX   鎴愪汉rm  MhX   鍗犵嚎rn  MiX   娓告垙ro  MjX   杞欢rp  MkX   鏃呮父rq  MlX   閲戣瀺鏈嶅姟rr  MmX   钃媰鍙戝睍rs  MnX   宸╮t  MoX   娑岀幇ru  MpX   浼樺厛rv  MqX   搴弐w  MrX   鐢靛瓙淇℃伅rx  MsX   鍚勪笟ry  MtX   浜у嚭rz  MuX   绛栫暐r{  MvX	   璧勬簮缃憆|  MwX	   鏁版嵁搴搑}  MxX   鑱攔~  MyX   鏈簉  MzX   鐜版湁r€  M{X   璧剅?  M|X   搴斾簣r?  M}X   鍊炬枩r?  M~X	   鐢靛瓙鍖杛?  MX   閲戝瓧r?  M€X   绯诲垪r?  M?X   寰堝揩r?  M?X   閲戞ˉr?  M?X   閲戝崱r?  M?X   閲戠◣r?  M?X   閲戝叧r?  M?X   閲戝畯r?  M?X   閲戝崼r?  M?X   閲戞櫤r?  M?X   閲戜紒r?  M?X   閲戠r?  M?X   鍙栧緱r?  M?X   浠や汉鐬╃洰r?  M?X   缃憆?  M?X   鐜板凡r?  M?X   瑕嗙洊鍏ㄥ浗r?  M?X   涓渷r?  M?X   閫氫俊r?  M?X   绔欑偣r?  M?X   鍘熸潵r?  M?X   鎵╁睍r?  M?X   70r?  M?X   澶氫釜r?  M?X	   绗竴鎵箁?  M?X   12r?  M?X   璇曠偣r?  M?X   璺ㄨr?  M?X   鑱旂綉r?  M?X   400r?  M?X   3800r?  M?X   鍘縭?  M?X   鏃ㄥ湪r?  M?X   缁忚锤r?  M?X   閲戣锤r?  M?X   宸蹭簬r?  M?X   1998r?  M?X   姝ｅ紡r?  M?X   鍚姩r?  M?X	   鍥犵壒缃憆?  M?X   涓婄綉r?  M?X   2.4r?  M?X   涓囧彴r?  M?X   浜烘暟r?  M?X   涓囦汉r?  M?X   澧炶嚦r?  M?X   62r?  M?X   11.5r?  M?X   5.2r?  M?X   鐚涘r?  M?X   75r?  M?X   210r?  M?X   1.5r?  M?X   3.4r?  M?X   鎴嚦r?  M?X   1999r?  M?u(X   鏈堝簳r?  M?X   棰勮r?  M?X	   浠婂勾搴時?  M?X   700r?  M?X   涓嬩笘绾垵r?  M?X	   浠呮浜巖?  M?X   绗簩r?  M?X	   鐢ㄦ埛缇?  M?X   绀鸿寖r?  M?X   鏁堟灉鏄捐憲r?  M?X   渚嬪瓙r?  M?X   澶栫粡璐搁儴r?  M?X	   骞夸氦浼歳?  M?X   澶栬锤浼佷笟r?  M?X   鍥寸粫r?  M?X   鍑哄彛璐告槗r?  M?X   娴忚r?  M?X   娲借皥r?  M?X   璁㈣揣r?  M?X   鏁堟灉r?  M?X   鍙?  M?X   妗堜緥r?  M?X   棣栭兘r?  M?X   鐢靛瓙鍟嗗煄r?  M?X   鍖椾含鍥句功澶у帵r?  M?X   涔﹀簵r?  M?X   璇?  M?X   鏃ュ紑r?  M?X   涓氬悗r?  M?X   鐏垎r?  M?X   鐜拌薄r?  M?X   姣忓ぉr?  M?X   鐐瑰嚮r?  M?X   杩炴帴r?  M?X	   璁块棶鑰卹?  M?X   楂樿揪r?  M?X   澶氫竾浜烘r?  M?X	   閿€鍞r?  M?X   澶氬厓r?  M?X	   澶ч儴鍒唕?  M?X   鏈夐檺鍏徃r?  M?X   鐧捐揣r?  M?X   IBMr?  M?X   鎷涘晢閾惰r?  M?X   鑻辩壒r?  M?X   闆嗗洟r?  M?X   鑺辨棗閾惰r?  M?X   涓浗閾惰r?  M?X   500r?  M?X   鏄熺骇楗簵r?  M?X   瀹㈡埧r?  M?X   棰勮r?  M?X   浠樿瀹炴柦r?  M?X   鑱旈€歳?  M?X	   瀹炲崕寮€r?  M?X   涓撶敤r?  M?X   钀ヤ笟r?  M?X	   绗竴瀹秗?  M?X	   宸ヨ壓鍝乺?  M?X   鍟嗗簵r?  M?X   Jader?  M?X   mallr?  M?X   褰撳ぉr?  M?X   杩憆?  M?X   5000r?  M?X   缇庡厓r?  M?X   鍒涙眹r  M?X   鐢靛瓙浼犻€抮   M?X	   涓婁笅绾  M?X   娌熼€歳  M?X   姘戜紬r  M?X	   閫忔槑搴  MX   鍔炰簨鏁堢巼r  M X   鐜皉  MX   httpr  MX   wwwr  MX   govr	  MX   cninfor
+  MX   netr  MX   cnr  MX   浣欎釜r  MX   缃戠偣r  M	X   搴旂敤棰嗗煙r  M
+X   浜烘皯閾惰r  MX   缃戜笂鏀粯r  MX   娴峰叧鎬荤讲r  MX	   鎶ュ叧鍗時  MX   澶栨眹r  MX   鏍搁攢r  MX	   宸ュ晢灞€r  MX   绾㈢浘r  MX	   淇℃伅缃憆  MX   鍥藉鏃呮父灞€r  MX   璁㈡埧r  MX   纭畾r  MX   璺嚎r  MX   缃戜笂鏁欒偛r  MX	   鍗敓閮╮  MX   缃戜笂鍖婚櫌r  MX   鍥藉绋庡姟鎬诲眬r   MX	   澧炲€肩◣r!  MX   鍙戠エr"  MX   绋芥牳r#  MX	   鐢靛瓙鎶$  MX   绋巖%  M X	   澶栫粡璐竢&  M!X	   杩涘嚭鍙'  M"X   閰嶉r(  M#X	   璁稿彲璇乺)  M$X   鍙戞斁r*  M%X   鍥藉鎶€鏈洃鐫ｅ眬r+  M&X   闃蹭吉r,  M'X   鎵撳亣r-  M(X   闃叉椽r.  M)X   鍙戝竷r/  M*X	   鍦伴渿灞€r0  M+X   鍦伴渿r1  M,X   鐩戞帶r2  M-X   鏂伴椈鍑虹増缃瞨3  M.X   鍥句功r4  M/X   鍑虹増鍙戣r5  M0X	   鏂伴椈缃憆6  M1X	   鍔冲姩閮╮7  M2X   鍔炲叕鑷姩鍖杛8  M3X   鍏枃r9  M4X   鐢靛瓙绛惧悕r:  M5X   灏歳;  M6X	   鎷ユ湁閲弐<  M7X   璁＄畻鏈烘妧鏈痳=  M8X   鏇存柊r>  M9X   鎱?  M:X	   搴旂敤鐜噐@  M;X   涓嶉珮rA  M<X   涓氬皯rB  M=X	   鍏抽敭鎬C  M>X   缃戠粶璁惧rD  M?X   涓绘満rE  M@X   鎿嶄綔绯荤粺rF  MAX   渚濊禆rG  MBX   杩涘彛rH  MCX	   鏈€鍓嶆部rI  MDX   鍑哄彛rJ  MEX   涓ユ牸rK  MFX   闄愬埗rL  MGX   涓夋槸rM  MHX   灏氬瓨rN  MIX   鍚勮嚜涓烘斂rO  MJX   閲嶅rP  MKX   缁勭綉rQ  MLX   寤虹綉rR  MMX   浜掍笉rS  MNX   鐩搁€歳T  MOX   鍥涙槸rU  MPX   閲嶇‖rV  MQX   杞昏蒋rW  MRX   涓嶅姏rX  MSX   缂哄皯rY  MTX   鏁翠綋瑙勫垝rZ  MUX   鏀跨瓥娉曡r[  MVX   瀹忚r\  MWX   鏈夊緟r]  MXX   铏絩^  MYX   鍑哄彴r_  MZX   缃戠粶瀹夊叏r`  M[X   妗嗘灦ra  M\X   绔嬫硶rb  M]X   绌虹己rc  M^X   鍚堝悓rd  M_X	   鍚堟硶鎬e  M`X   缂轰箯rf  MaX   娉曞緥鏉℃枃rg  MbX   瑙ｉ噴rh  McX   鑱斿悎ri  MdX	   璐告槗娉時j  MeX	   濮斿憳浼歳k  MfX   鏂囦欢rl  MgX   鏄惁rm  MhX   绾冲叆rn  MiX   灏氭湭ro  MjX   鍏叡rp  MkX   淇冩垚rq  MlX   鍏煎rr  MmX   閬垮厤rs  MnX	   涓嶅繀瑕乺t  MoX   閲嶅彔ru  MpX   鎶ユ枃rv  MqX	   鏍囧噯鍖杛w  MrX   璧勬簮鍏变韩rx  MsX   灏氭樉ry  MtX   涓撻棬浜烘墠rz  MuX   涓€鎸噐{  MvX   瀹炲姟r|  MwX   浜屾寚r}  MxX   鎳俽~  MyX   纭瑀  MzX   杞欢鎶€鏈痳€  M{X   绉戝绠＄悊r?  M|X	   澶嶅悎鍨媟?  M}X   涓夋寚r?  M~X   缃戠粶绠＄悊r?  MX   涓夌被r?  M€X   鐭己r?  M?X   鏁板勾r?  M?X   瀵规r?  M?X   灏氭瑺r?  M?X   鎴愮啛r?  M?X   瓒冲r?  M?X   浜ゆ槗杩囩▼r?  M?X   绠€r?  M?X   鍗曞湴r?  M?X   鍏紬r?  M?X   娑堣垂r?  M?X   鐭ヤ箣鐢氬皯r?  M?X	   鎹皟鏌?  M?X   鐢ㄤ簬r?  M?X   57.1r?  M?X   鍥介檯缁忚锤r?  M?X   40.7r?  M?X   鐢靛瓙淇＄r?  M?X   涓氬姟r?  M?X   30.8r?  M?X   28.6r?  M?X   鍑瘉r?  M?X   浼犺緭r?  M?X   8.8r?  M?X   杩滄湭r?  M?X   鎺ュ彈r?  M?X   閲囩撼r?  M?X   浜攔?  M?X   鍙戝睍鍓嶆櫙r?  M?X   瀵圭瓥r?  M?X	   杩戜袱骞磖?  M?X   涔嬪揩r?  M?X   杩滆繙r?  M?X   鎯宠薄r?  M?X   浠や汉r?  M?X   闅句互缃俊r?  M?X	   鍙楁杩巖?  M?X   瀹屽叏r?  M?X   鐞嗙敱r?  M?X	   涓嶈鏄痳?  M?X   鍙戝睍涓浗瀹秗?  M?X   绉戠爺閮ㄩ棬r?  M?X   鏂伴椈濯掍綋r?  M?X   鍓嶆墍鏈湁r?  M?X   鐑疆r?  M?X   涓€娴珮杩囦竴娴猺?  M?X   鍑犲勾r?  M?X	   浜ゆ槗棰漴?  M?X   鏁板€峳?  M?X   26r?  M?X	   浜跨編鍏價?  M?X   430r?  M?X   15r?  M?X   浠ヤ笂r?  M?X   2000r?  M?X   3000r?  M?X   涓栬锤缁勭粐r?  M?X   浼拌r?  M?X   Intelr?  M?X	   鍓€昏r?  M?X   铏炴湁r?  M?X   婢剅?  M?X   鍏堢敓r?  M?X   棰勬祴r?  M?X   2002r?  M?X   9000r?  M?X   鏁板瓧r?  M?X   璐у竵鍩洪噾r?  M?X   2003r?  M?X   15000r?  M?X   34r?  M?X   涓嶉仯r?  M?X   浣欏姏r?  M?X   鍦颁簤r?  M?X   灞卞ごr?  M?X   鎶?  M?X   浣嶇疆r?  M?X   澹板娍娴╁ぇr?  M?X   璧嬩簣r?  M?X   渚涢渶r?  M?X   閾緍?  M?X	   鍘熸潗鏂檙?  M?X   閲囪喘渚涘簲r?  M?X   鍙屽悜r?  M?X   浜ゆ崲r?  M?X   闆嗘垚r?  M?X   楂樻晥蹇嵎r?  M?X   浜ゆ祦r?  M?X	   涓栫晫鎬?  M?X   澹皉?  M?X   鍔縭?  M?X   娴╁ぇr?  M?X   鏂瑰悜r?  M?X   鍟嗕笟鏈轰細r?  M?X   鎸戞垬r?  M?X   娣眗?  M?X   鍒籸?  M?X	   鏁板瓧鍖杛?  M?X   鏈変汉r?  M?X   闂畆?  M?X   杈圭晫r?  M?X   澶氶暱r?  M?X   鍥炵瓟r?  M?X	   鎹娴媟?  M?X   鏁板崈浜跨編鍏價?  M?X   涓囦嚎缇庡厓r?  M?X   鎶€r?  M?X   鍚稿紩r?  M?X   宸ㄥごr?  M?X   鍏磋叮r?  M?X	   鍒涢€犲姏r?  M?X   浜轰笌鑷劧r?  M?X   鍜岃皭r?  M?X   璧锋r?  M?X   杈冩櫄r?  M?X   鎬佸娍r?  M?X   璧秗?  M?X   鎴樼暐r?  M?X   鍩烘湰鍥芥儏r?  M?X   璧峰姩r?  M?X	   涓诲姏鍐況?  M?X   瀹ｄ紶r  M?X   閫愭笎r   M?X   缂╁皬宸窛r  M?X   璧朵笂r  M?X   涓烘r  M?X   鍙r  MX   蹇呯劧瓒嬪娍r  M X	   娣卞眰娆  MX	   绱ц揩鎰焤  MX	   绔炰簤鍔況  MX   鐩堝埄r	  MX   鏁堝簲r
+  MX   閫傚悎r  MX   鎺ㄨr  MX   澶栬锤r  MX   璇佸埜r  M	X   姘戣埅r  M
+X   鍞エr  MX   楗簵r  MX   浜堜互r  MX   澶у姏鏀寔r  MX   淇冨叾r  MX   鑹€у惊鐜痳  MX   淇濋殰绯荤粺r  MX   鎶€鏈爣鍑唕  MX   鎺ュ叆r  MX   鏀寔绯荤粺r  MX	   瑙勮寖鍖杛  MX   鎿嶄綔r  MX   閫氱敤r  MX   鎺ヨ建r  MX   涓€鏀痳  MX   缁撴瀯鍚堢悊r  MX   閰嶅r   MX   姊舰r!  MX   绀句細鍚勭晫r"  MX   楂樼骇浜烘墠r#  MX	   涓€鏂归潰r$  MX   鍙︿竴鏂归潰r%  M X   闃叉r&  M!X   澶栨祦r'  M"X   鍚告敹r(  M#X   鍒浗r)  M$X   绮句妇r*  M%X   绉瀬鍙備笌r+  M&X   璁ㄨr,  M'X   992r-  M(X   闀挎矙r.  M)X   F51r/  M*X   200005r0  M+X	   绋嬫仼瀵宺1  M,X	   姹杩況2  M-X   涓婃捣璐㈢粡澶уr3  M.X	   缁忔祹绯籸4  M/X   鐗╀环姘村钩r5  M0X   璧颁綆r6  M1X   杞诲井r7  M2X   閫氳揣绱х缉r8  M3X   涓ぎ鏀垮簻r9  M4X   鍏嬫湇r:  M5X   涔忓姏r;  M6X   淇濇寔r<  M7X   鍔垮ごr=  M8X	   杩戝勾鏉>  M9X   閲囧彇r?  M:X   澶у箙r@  M;X   闄嶆伅rA  M<X   鍙戣rB  M=X   鍊哄埜rC  M>X   瀹忚鏀跨瓥rD  M?X   蹇€熷闀縭E  M@X   鎵╁ぇ鍐呴渶rF  MAX	   鎬婚渶姹俽G  MBX   绉嶇rH  MCX   鎴樼暐鎰忎箟rI  MDX   鎷夊姩rJ  MEX   鏈枃rK  MFX   浣滀竴rL  MGX   绮楁祬rM  MHX   GNPrN  MIX   宸﹀彸rO  MJX   澶嶆潅rP  MKX   鍔╮Q  MLX   鐜版椂rR  MMX   绯荤粺宸ョ▼rS  MNX   涓€浜宺T  MOX   鏉U  MPX   鏀跨瓥鎺柦rV  MQX   涓嶆椇rW  MRX   浠ヤ究rX  MSX   鎵惧埌rY  MTX   鍓嶆鏃堕棿rZ  MUX   瀹忚缁忔祹r[  MVX   鐜扮姸r\  MWX   鑰冨療r]  MXX   灞呮皯娑堣垂r^  MYX   涓嶆尟r_  MZX   澶т綋r`  M[X   涓嬮潰ra  M\X   鍥涗釜rb  M]X   鏀舵敮rc  M^X   棰勬湡rd  M_X   璁″垝缁忔祹re  M`X   鍊掗棴rf  MaX   宸ヤ汉rg  MbX   澶变笟rh  McX   瀹為檯鏀跺叆ri  MdX	   娑堣垂鍝乺j  MeX   灞呮皯rk  MfX   鏃ュ父rl  MgX   鏀跺叆rm  MhX   涓嶇‘瀹氭€n  MiX   鍑犱箮ro  MjX   闆秗p  MkX   鍔犱箣rq  MlX   鑰愮敤rr  MmX	   浠ヨ嚦浜巖s  MnX   鍌ㄨ搫瀛樻rt  MoX   鏋佷负ru  MpX   鎷呭績rv  MqX   鑰佽檸rw  MrX   鍑虹rx  MsX   鍓х儓ry  MtX   閫氳揣鑶ㄨ儉rz  MuX   鍥芥湁浼佷笟r{  MvX   鍩庨晣灞呮皯r|  MwX   浣忔埧r}  MxX   鍖荤枟r~  MyX   鍏昏€乺  MzX   濂硆€  M{X   閮ㄥ垎r?  M|X   椋庨櫓r?  M}X   璐圭敤r?  M~X   鏄庢樉澧炲姞r?  MX   鍥戒紒鏀归潻r?  M€X   涓嬪矖r?  M?X   鍒嗘祦r?  M?X   鍑忓憳澧炴晥r?  M?X	   鏂颁竴杞畆?  M?X   鎷夊紑甯峰箷r?  M?X   姝ｅ湪r?  M?X   鎺ㄥ紑r?  M?X   鍙栨秷r?  M?X   绂忓埄r?  M?X   鍒嗘埧r?  M?X	   浠ｄ箣浠?  M?X	   璐у竵鍖杛?  M?X	   鏀惰垂鍒秗?  M?X   涔嬪ぇr?  M?X	   娑夊強闈?  M?X   涔嬪箍r?  M?X	   涓€鏃舵湡r?  M?X   鍗虫湡r?  M?X   鏀嚭r?  M?X   杈冨ぇr?  M?X   鏃犳硶r?  M?X   闃茶寖r?  M?X   鍌ㄨ搫r?  M?X   鍊惧悜r?  M?X   涓婂崌r?  M?X   鍑忓皯r?  M?X   鐢ㄩ€攔?  M?X   缁撴灉鏄剧ずr?  M?X   瀛愬コ鏁欒偛r?  M?X   灏卞尰r?  M?X   16.3r?  M?X   14.2r?  M?X   鍑犻」r?  M?X   鍏眗?  M?X   66.5r?  M?X   澶уぇ鍑忓皯r?  M?X   40r?  M?X   骞村簳r?  M?X   鍩庝埂灞呮皯r?  M?X   浣欓r?  M?X	   涓囦嚎鍏價?  M?X   灞呮皯鏀跺叆r?  M?X   骞冲潎r?  M?X   涓嶆柇娣卞叆r?  M?X   鎶芥牱璋冩煡r?  M?X   鏉ョ湅r?  M?X   瀹跺涵r?  M?X	   鍦ㄥ煄闀噐?  M?X   浠介r?  M?X   涓墍r?  M?X   姣斾緥r?  M?X   鏈€楂榬?  M?X   鎴穜?  M?X	   鐢熸椿璐箁?  M?X   1991r?  M?X   14.41r?  M?X   12.11r?  M?X   16.95r?  M?X   13.33r?  M?X   鏈€浣巖?  M?X	   浣庢敹鍏?  M?X   6.69r?  M?X   7.86r?  M?X   5.32r?  M?X   6.74r?  M?X   琛￠噺r?  M?X   宸紓r?  M?X   澶у皬r?  M?X   鍩哄凹绯绘暟r?  M?X   0.16r?  M?X   0.23r?  M?X   0.29r?  M?X   鍔犱笂r?  M?X   鍐滄潙r?  M?X   杩戝勾r?  M?X   0.38r?  M?X   4.41r?  M?X   楂樺嚭r?  M?X   0r?  M?X   褰撳勾r?  M?X   鎴峰勾r?  M?X   10962r?  M?X   涓婂勾r?  M?X   6.9r?  M?X   2477r?  M?X   1.9r?  M?X   鍓嶈€卹?  M?X   鍚庤€卹?  M?X   澧炲箙r?  M?X   鐧惧垎r?  M?X   鐐箁?  M?X   瓒婇珮r?  M?X   瓒婁綆r?  M?X   0.92r?  M?X   涓瓑r?  M?X   鍊緍?  M?X   0.83r?  M?X   0.73r?  M?X   0.80r?  M?X   0.74r?  M?X   缇や綋r?  M?X   鍩烘湰寤鸿r?  M?X   璐疆r?  M?X   閲弐?  M?X   鏃犲姏r?  M?X   渚涚粰r?  M?X	   涓嶅悎鐞唕?  M?X   鍒剁害r?  M?X   娣卞寲r?  M?X   閫愭鎻愰珮r?  M?X   娑堣垂缁撴瀯r?  M?X   涔版柟甯傚満r?  M?X   甯︽湁r?  M?X	   缁撴瀯鎬?  M?X   鏈兘r?  M?X   鏀跺叆姘村钩r?  M?X   杞瀷r?  M?X   鍚勫湴r?  M?X   浜塺?  M?X   闆峰悓r?  M?X   鏃犳晥r?  M?X   鍔犲墽r  M?X   搴撳瓨r   M?X   绉帇r  M?X   13276r  M?X   鎬诲€紃  M?X   閫緍  MX	   鍟嗗搧鎴縭  M X   涓囧钩鏂圭背r  MX   褰╃數r  MX   鍐扮r  MX	   娲楄。鏈簉	  MX   瀹剁敤鐢靛櫒r
+  MX   鐢熶骇鑳藉姏r  MX	   鍒╃敤鐜噐  MX   绉戞妧寮€鍙憆  MX   鍊煎緱娉ㄦ剰r  M	X   浜縭  M
+X	   浜庡煄闀噐  MX   瀹剁數浜у搧r  MX	   鏅強鐜噐  MX	   闄愬埗鎬  MX   鏌愪簺r  MX   鐭己缁忔祹r  MX   鍗栨柟甯傚満r  MX   渚嬪r  MX   姹借溅r  MX   涓€鍊峳  MX   浠峰r  MX   绋庤垂r  MX   婊  MX   杞︿环r  MX   锛弐  MX   鐢ㄧ數r  MX   鏀跺彇r   MX	   澧炲璐箁!  MX	   瓒呰鍒抮"  MX   鍔犱环r#  MX   鐩畆$  MX   绻佸r%  M X   鎴夸环r&  M!X   楂樼瓑鏁欒偛r'  M"X   寰堜弗r(  M#X   涓嶅r)  M$X   闂ㄦr*  M%X   璁惧畾r+  M&X   褰眗,  M'X   鍝峳-  M(X   闅滅r.  M)X   娲昏穬r/  M*X   閲囧彇鏈夋晥r0  M+X   鎵€璋搑1  M,X   鐑偣r2  M-X	   鎴垮湴浜3  M.X   椤籸4  M/X   鑰冭檻r5  M0X   渚涢渶鍙屾柟r6  M1X   鏃㈡湁r7  M2X   閲囧彇鎺柦r8  M3X   渚涢渶鐭涚浘r9  M4X   骞宠　r:  M5X	   閫傚簲鎬;  M6X   浼犳巿r<  M7X	   鍥藉唴澶杛=  M8X   鍛婅瘔r>  M9X   1900r?  M:X   1957r@  M;X   婧愪簬rA  M<X   璧勬湰rB  M=X   3.5rC  M>X   浜哄姏璧勬湰rD  M?X   17.5rE  M@X   瑭箁F  MAX	   灏煎厠鏂痳G  MBX   JencksrH  MCX   1972rI  MDX   瀵屾湁rJ  MEX   瀛愬コrK  MFX   璐┓rL  MGX	   鎰忓懗鐫€rM  MHX   娉ㄥ畾rN  MIX   绌穜O  MJX   涓や唬rP  MKX   姘镐箙rQ  MLX   鐩稿叧绯绘暟rR  MMX   0.3rS  MNX   涓嬪矖鑱屽伐rT  MOX   鍙戠幇rU  MPX   鍒濅腑rV  MQX   鑱屽伐rW  MRX   鍋滃伐rX  MSX   寰呭矖rY  MTX   鎬绘暟rZ  MUX   93.6r[  MVX   0.6r\  MWX   鐩殑r]  MXX	   绗竴浣峳^  MYX   浠ユ湡r_  MZX   楂樼瓑瀛︽牎r`  M[X   鎵╂嫑ra  M\X   33rb  M]X	   澶氫嚎鍏價c  M^X   鎵╁紶rd  M_X   杈冩參re  M`X   璁剧疆rf  MaX   鑰冨垎rg  MbX   鍩庝埂rh  McX   澶у箙搴︽彁楂榬i  MdX   淇¤捶rj  MeX   鏅亶瀛樺湪rk  MfX   棰濆害rl  MgX   鍒╂伅rm  MhX   鏈熼檺rn  MiX   鐭璻o  MjX   鐩哥Оrp  MkX   鍒烘縺rq  MlX   鏈夊埄rr  MmX   浠庨暱杩滅湅rs  MnX   鍔冲姩rt  MoX   浠庢€讳綋涓妑u  MpX   灞呬綇闈㈢Нrv  MqX   鍩庨晣rw  MrX   浣忔埧闈㈢Нrx  MsX   浠呬负ry  MtX	   骞虫柟绫硆z  MuX   鍩庨晣浜哄彛r{  MvX   瀵规瘮r|  MwX   椴滄槑r}  MxX   闂茬疆r~  MyX   鏍规湰鍘熷洜r  MzX   杩囬珮r€  M{X	   浠嶉珮杈緍?  M|X   鍗充娇r?  M}X	   骞夸笢鐪乺?  M~X   璐埧r?  MX   鍖椾含鍦板尯r?  M€X   涔皉?  M?X	   鍙岃亴宸?  M?X   涓嶅悆r?  M?X   鍠漴?  M?X   灞呴珮涓嶄笅r?  M?X   寤哄畨r?  M?X   杩欎箞r?  M?X   璐锋r?  M?X   闅句互鎵垮彈r?  M?X	   寮€鍙戝晢r?  M?X   鏀跺洖r?  M?X   淇¤捶璧勯噾r?  M?X   鍙戞尌浣滅敤r?  M?X   鎭舵€у惊鐜痳?  M?X	   涓嬪喅蹇價?  M?X   澶剅?  M?X   缃畆?  M?X   娓呯悊r?  M?X   鏀规帀r?  M?X   閫傚綋r?  M?X   璐㈠姟璐圭敤r?  M?X   绗笁r?  M?X   骞冲潎鍒╂鼎r?  M?X	   鍒╂鼎鐜噐?  M?X   闄峳?  M?X   鍒╂鼎r?  M?X   鎸夌収r?  M?X   鐐圭◣r?  M?X   鐐规伅r?  M?X   鐐瑰埄r?  M?X	   闄嶄笅鏉?  M?X   閲囩敤r?  M?X   杩藉€簉?  M?X   鍏紑r?  M?X   鎷嶅崠r?  M?X	   鍊烘潈浜簉?  M?X   鍊烘潈r?  M?X   杩借瘔r?  M?X   濮旀墭r?  M?X   鎵€寰梤?  M?X   褰掕繕r?  M?X   鍊哄姟r?  M?X   鎷ㄦr?  M?X   浣忔埧闂r?  M?X   瀹為檯姘村钩r?  M?X   鍋滅暀r?  M?X   澶勭骇r?  M?X   绉戠骇r?  M?X   褰撳湴r?  M?X	   鍏姟鍛榬?  M?X   瀹為檯r?  M?X   璐у竵r?  M?X   澶х害r?  M?X   姣忓钩鏂圭背r?  M?X   寤虹瓚闈㈢Нr?  M?X   甯備环r?  M?X   4000r?  M?X   浜嬩笟鍗曚綅r?  M?X   绛杛?  M?X   鑻?  M?X   閭ｆ牱r?  M?X	   涓€浜屽勾r?  M?X	   涓変簲骞磖?  M?X   涓ょr?  M?X   瑙ｅ紑r?  M?X   姝荤粨r?  M?X   璧勪骇r?  M?X   浜垮r?  M?X   浜垮湪r?  M?X   鍐滄皯r?  M?X	   璐拱鍔況?  M?X   缁熻r?  M?X   2.34r?  M?X   鍐滄埛r?  M?X   鐧炬埛r?  M?X   27.3r?  M?X   鍙皉?  M?X	   鐢靛啺绠眗?  M?X   21.9r?  M?X   杩欏氨鏄r?  M?X   娑堣垂姘村钩r?  M?X   1.7r?  M?X   1.8r?  M?X   鍘傚晢r?  M?X   璋冪爺r?  M?X   閫傞攢r?  M?X	   杩欓儴鍒唕?  M?X   渚涙眰r?  M?X   鍘傚r?  M?X   鍒囧疄鍙r?  M?X   鍑忚交r?  M?X   鍐滄皯璐熸媴r?  M?X   鍐滄皯鏀跺叆r?  M?X	   寮€鍙戞柊r?  M?X   婊?  M?X   瓒硆?  M?X   鎴愭晥r?  M?X   姝ｇ‘r?  M?X   灏戣蛋寮矾r?  M?X   閬縭?  M?X   鍏峳?  M?X   澶辫r?  M?X   涓嶅疁r?  M?X   绉佹湁r?  M?X   杞胯溅r?  M?X   棣栬r?  M?X   涔嬬偣r?  M?X   濡傚墠鎵€杩皉?  M?X   浣庢敹鍏ヨ€卹?  M?X   璐溅r?  M?X   楂樻敹鍏ヨ€卹?  M?X   浜ら€歳?  M?X   鍋滆溅r?  M?X   娉婁綅r?  M?X   浜ч噺r?  M?X   涓囪締r?  M?X   渚涜繃浜庢眰r?  M?X   鍙︽嵁r?  M?X   浜嬪姟r?  M?X   鍩庡競灞呮皯r?  M?X   閽堝r?  M?X   35r  M?X   鎰忔€漴   M?X   31r  M?X   鎸乺  M?X   瑙傛湜r  M?X   鍥犳墜r  MX   缁璻  M X   绻佹潅r  MX   鍔炵悊r  MX   鐪嬪嚭r  MX   琛屼负r	  MX   鍦ㄧ煭鏈熷唴r
+  MX   鍐典笖r  MX   澶т腑鍩庡競r  MX   鍏叡浜ら€歳  MX   浼佸浘r  M	X	   澶ц妯  M
+X   缂撹Вr  MX   鍩庡競浜ら€歳  MX   姝ｅ弽涓ゆ柟r  MX   闈  MX   姝ｇ‘鐪嬪緟r  MX   鑲″競r  MX   鍐呴渶r  MX   瑙傜偣r  MX   鈫抮  MX   鑲′环r  MX   涓婃定r  MX   鎸佹湁r  MX   鍗囨俯r  MX   鍥犳灉鍏崇郴r  MX   棰犲€抮  MX	   鍙嶈繃鏉  MX   鏌愮r   MX	   鍙嶄綔鐢╮!  MX   鏄灉r"  MX   鍥犳灉r#  MX   鍊掔疆r$  MX   鍐嶈€卹%  M X   鍝猺&  M!X   浜轰负r'  M"X   闀胯繙r(  M#X   钀ラ€爎)  M$X   鐗況*  M%X   闈爎+  M&X   杩囧害r,  M'X   鎶曟満r-  M(X   涓€澶磖.  M)X   楗俯姝㈡复r/  M*X   鐥呯墰r0  M+X   鑲＄エ甯傚満r1  M,X   澧為暱骞呭害r2  M-X   灏忎簬r3  M.X   鎬讳綋r4  M/X   璐箁5  M0X   涓綆鏀跺叆鑰卹6  M1X   鍏蜂綋鍔炴硶r7  M2X   绗笁浜т笟r8  M3X   瀹惰r9  M4X   鏉犳潌r:  M5X   鐞嗛『r;  M6X   绮r<  M7X   妫夎姳r=  M8X   娴侀€歳>  M9X   浼樿川浼樹环r?  M:X   绾у樊r@  M;X   绱繘rA  M<X	   鎵€寰楃◣rB  M=X   鎶珮rC  M>X   寰佺◣rD  M?X   璧风偣rE  M@X   寰佹敹rF  MAX   涓汉鎵€寰楃◣rG  MBX   鍥藉唴rH  MCX	   鎴樼暐鎬I  MDX   鍑€rJ  MEX   缁勬垚rK  MFX   鏇村簲rL  MGX   娴嬬畻rM  MHX   1978rN  MIX   1360rO  MJX	   璐＄尞鐜噐P  MKX   61.7rQ  MLX   34.7rR  MMX   2.2rS  MNX   4.9rT  MOX   涓€娈祌U  MPX   璺濈rV  MQX   鏉冨疁涔嬭rW  MRX   璧板悜甯傚満rX  MSX   澶у浗rY  MTX	   绔嬭冻鐐箁Z  MUX   鏀惧湪r[  MVX   鍧氬畾涓嶇Щr\  MWX   鎵цr]  MXX   銆攔^  MYX   銆時_  MZX   锛巖`  M[X	   涓诲鍨媟a  M\X   Mrb  M]X   杩滀笢rc  M^X   1995rd  M_X	   鍒佹案浣渞e  M`X   Jrf  MaX	   寮犲浗鍗巖g  MbX   瀹嬮摦rh  McX   瑷€鍟唕i  MdX   鐪嬪緟rj  MeX   浣庤糠rk  MfX   鍙嶅樊rl  MgX   閫氳rm  MhX	   瀹嬪吇鐞皉n  MiX   瀹嬮ro  MjX	   鑳¤垝浜憆p  MkX   缂樻湪rq  MlX   鐒夎兘rr  MmX   姹傞奔rs  MnX   Nrt  MoX   鍗楁柟鍛ㄦ湯ru  MpX   25rv  MqX	   鑲栨案鑻眗w  MrX   甯傛皯rx  MsX   鍋忎綆ry  MtX   瑙ｆ斁鏃ユ姤rz  MuX   974r{  MvX   璐㈣锤r|  MwX   200003r}  MxX   69r~  MyX   鐗硅r  MzX   鏋侀檺r€  M{X	   閮啲涔恟?  M|X	   澶忓厛鑹痳?  M}X	   鐮旂┒鎵€r?  M~X   100836r?  MX   鍏磋捣r?  M€X   涓€鑲?  M?X   鑲?  M?X   璇佸埜甯傚満r?  M?X   钀庨潯r?  M?X   寮€寰乺?  M?X	   鍒╂伅绋巖?  M?X   涓汉鐙祫r?  M?X   浜х墿r?  M?X   绾风悍r?  M?X   鐪嬩腑r?  M?X	   楂樺洖鎶?  M?X   缁忚惀鏂瑰紡r?  M?X   钀?  M?X	   灞€闄愭€?  M?X   杩囧垎r?  M?X	   鐑》浜巖?  M?X   鐭ヨ瘑浜ф潈r?  M?X   鎬ц川r?  M?X   鎺?  M?X   璁╮?  M?X   鑻ュ共r?  M?X	   閲嶅鎬?  M?X   澶嶅埗r?  M?X   鍙叡r?  M?X	   娑堣垂鎬?  M?X   鍙噸澶嶆€?  M?X   鏄粠r?  M?X	   涓嶅悓浜巖?  M?X   鍟嗗搧鐢熶骇r?  M?X   缁忚繃r?  M?X   绋嬪簭r?  M?u(X	   姣忎竴浠秗?  M?X   鍚屾牱r?  M?X   鍒堕€爎?  M?X   渚垮疁r?  M?X	   涓€娆℃€?  M?X   姣嶆湰r?  M?X   originalr?  M?X   姝ゅ悗r?  M?X   鏃犻渶r?  M?X   浠庡ご寮€濮媟?  M?X   澶峳?  M?X	   澶嶅埗鍝乺?  M?X   鐒秗?  M?X   鍘熶欢r?  M?X   涓€鏍穜?  M?X   鑰楄垂r?  M?X   鍒秗?  M?X   閫犱互r?  M?X   閫愪竴r?  M?X   绉颁綔r?  M?X   灏界r?  M?X   鍚屼竴r?  M?X   鏌恟?  M?X   杈归檯r?  M?X	   钀ㄧ吉灏攔?  M?X   閫妑?  M?X   Paulr?  M?X	   Samuelsonr?  M?X   涓汉娑堣垂r?  M?X	   鏃犳暟娆?  M?X   浠絩?  M?X   杩炵画r?  M?X   鍗時?  M?X   缁濆r?  M?X   鎺掑畠r?  M?X   鐢焤?  M?X   宸埆r?  M?X   闅弐?  M?X   鎺塺?  M?X   涓よ€卹?  M?X	   杈呯浉鎴恟?  M?X   鍓嶄汉r?  M?X   鍚庝汉r?  M?X   涓嶅繀r?  M?X   鍐嶆r?  M?X	   鍏朵粬浜簉?  M?X   閫斿緞r?  M?X   鐞嗚鐭ヨ瘑r?  M?X   鏇村姞r?  M?X   鑴戝瓙r?  M?X   蹇卹?  M?X   鑺傜害r?  M?X   浠ュ墠r?  M?X   绉戝鐮旂┒r?  M?X   鎶€鏈紑鍙憆?  M?X   鎬ф槸r?  M?X   瀹瀝?  M?X   姝ｆ槸r?  M?X   渚挎嵎r?  M?X   涓墠r?  M?X   涓嶄粎濡傛r?  M?X   绔檙?  M?X   鑲╄唨r?  M?X   涔犳槸r?  M?X   鎴愭灉r?  M?X   鐣ユ湁r?  M?X   鍙r?  M?X   涔犳€?  M?X   浼犳挱r?  M?X   渚濆瓨鍏崇郴r?  M?X   瀵瑰r?  M?X   鍐插姩r?  M?X   璺ㄥ浗鍏徃r?  M?X   鎬婚儴r?  M?X   宸ュ巶r?  M?X   澶ц剳r?  M?X   寮曟搸r?  M?X   鍔況?  M?X   鍔涙槸r?  M?X	   鎵€鏈夎€卹?  M?X   鐙崰r?  M?X   鏃犱笌浼︽瘮r?  M?X   鍗犳湁r?  M?X   娴峰r?  M?X   鍒嗘敮鏈烘瀯r?  M?X   瀹归噺r?  M?X   瓒婂ぇr?  M?X	   閿€鍞噺r?  M?X   浠芥暟r?  M?X   鎷疯礉r?  M?X   澧炲ぇr  M?X   鏈哄櫒r   M?X   鍒濇r  M?X   鍖呭惈r  M?X   鎴愭湰璐圭敤r  M?X   鍘熸湁r  MX   鍋囧畾r  M X   渚垫潈r  MX   nr  MX   Cr  MX   ,r	  MX   浜ゆ槗鎴愭湰r
+  MX   锛漴  MX   锛籸  MX   锛媟  MX   锛絩  M	X   鍥哄畾r  M
+X   涓嶅彉r  MX   涓嶉殢r  MX   澧炲噺r  MX   閫掑r  MX   閫掑噺r  MX   鍑芥暟r  MX	   鍩烘湰涓妑  MX   甯告暟r  MX	   鎬绘垚鏈瑀  MX   鑺傜渷r  MX   浣庡粔r  MX   楂樻槀r  MX   鎰堝姞r  MX   鏄捐憲r  MX   瓒嬩簬r  MX	   鏃犵┓澶  MX   閫艰繎r   MX   鍨勬柇鍒╂鼎r!  MX   浣欏湴r"  MX   杞暘r#  MX	   鍙戣閲弐$  MX   鏁伴r%  M X	   鏋佸皬鍊紃&  M!X   鍒跺搧r'  M"X   淇冧娇r(  M#X   鐭ヨ瘑浜т笟r)  M$X   澶ц妯″寲r*  M%X   鎺掓尋r+  M&X   璧勯噾鏉ユ簮r,  M'X	   鍓骇鍝乺-  M(X   鎬ц€宺.  M)X	   闆嗕腑鍖杛/  M*X	   瑙勬ā鍖杛0  M+X	   灏忓瀷鍖杛1  M,X	   鍒嗘暎鍖杛2  M-X   娴垂r3  M.X	   涓滈亾鍥絩4  M/X   杩愯惀r5  M0X   鏀痳6  M1X   浠榬7  M2X   蹇界暐r8  M3X   鏁扮洰r9  M4X	   鐗硅璐箁:  M5X   涓嶄粯r;  M6X	   鍑€鍒╂鼎r<  M7X   澧炶r=  M8X   鍗犻r>  M9X   鍏瑀?  M:X   鍙竢@  M;X   鍔ㄦ満rA  M<X   鍏舵墍rB  M=X   鍏嬮殕rC  M>X   绻佹畺rD  M?X   鍒嗘満rE  M@X   鏋剅F  MAX	   鍚堢悊鎬G  MBX   璧勬牸rH  MCX   璁稿彲rI  MDX   閬垮紑rJ  MEX   鎽哥储rK  MFX   寮€鍙戞妧鏈痳L  MGX   鑷富rM  MHX   寮ヨˉrN  MIX   鏃犺rO  MJX	   姣忎竴椤箁P  MKX   楂樺緱rQ  MLX   鎯婁汉rR  MMX   鎭愭€時S  MNX   绱T  MOX   楂橀rU  MPX   瓒充互rV  MQX   闃绘rW  MRX   娣卞叆鐮旂┒rX  MSX   鑺辫垂rY  MTX   涔嬪rZ  MUX   鏍穜[  MVX   鎹峰緞r\  MWX   鍒嗕韩r]  MXX   澶栭儴r^  MYX   鎵╂暎r_  MZX   涓ゆr`  M[X   鎬ф墍ra  M\X   鏂逛笌rb  M]X   绾藉甫rc  M^X   鍟嗗彿rd  M_X   澹拌獕re  M`X   鍒嗗簵rf  MaX   澶栧悜rg  MbX   缃戠綏rh  McX	   绔炰簤鑰卹i  MdX   鏃犻檺rj  MeX   钄撳欢rk  MfX   绾︽潫鏉′欢rl  MgX   鏂规墠rm  MhX   寤朵几rn  MiX   鏆傛椂ro  MjX   娆洪獥rp  MkX   琚壒璁歌€卹q  MlX   璁歌瘉rr  MmX   鍙屾柟rs  MnX   涓嶈壇鍚庢灉rt  MoX   鐩槸ru  MpX   鏈夐檺rv  MqX   杩囧rw  MrX	   楗卞拰鐐箁x  MsX   缁忚惀瑙勬āry  MtX   鎭舵€х珵浜塺z  MuX   杩囧墿r{  MvX   鏀剁缉r|  MwX   鎴樼嚎r}  MxX   鍋ュ叏r~  MyX   婧㈠嚭r  MzX   鍟嗕笟绉樺瘑r€  M{X   娉勯湶r?  M|X   鍟嗕笟鍒╃泭r?  M}X   宸ㄥぇ鎹熷けr?  M~X   鍓婂急r?  MX   澶氬灏戝皯r?  M€X   鐭?  M?X   瀹瑰繊r?  M?X   鍝佺r?  M?X   瓒婂皬r?  M?X   鍙嶄箣r?  M?X   瓒婃參r?  M?X   淇濆瘑r?  M?X   鍒嗘敮r?  M?X   閫傚疁r?  M?X   涓嶅ソr?  M?X   鍗曚釜r?  M?X   閫犺埞r?  M?X   椋炴満r?  M?X	   瀛愬叕鍙竢?  M?X	   鍙兘闈爎?  M?X   鎴愰暱r?  M?X	   淇濆瘑鎬?  M?X	   鐢熶骇鎬?  M?X   鍨傜洿r?  M?X   鍒嗛攢r?  M?X   寮妑?  M?X   璁捐r?  M?X   钀ユ墍r?  M?X   娌跨敤r?  M?X	   鑰佸瓧鍙穜?  M?X	   涓嶅け涓簉?  M?X   杈冧紭r?  M?X   澶卞幓r?  M?X   鍝佺墝r?  M?X   涓嶇r?  M?X	   涓嶅埄浜巖?  M?X   鍙兘r?  M?X   涓€鍝勮€屼笂r?  M?X   寰椾互r?  M?X	   鍙鎬?  M?X   渚濇嵁r?  M?X   璁竢?  M?X   鎶㈠崰甯傚満r?  M?X   鎵╁厖r?  M?X   鑾峰彇r?  M?X   蹇嵎鏂瑰紡r?  M?X   娌塺?  M?X   搴時?  M?X   鐪焤?  M?X   鍙皳r?  M?X   涓ゅ叏鍏剁編r?  M?X   鐩稿緱鐩婂桨r?  M?X	   瀛旂箒鏉?  M?X   鍚戞r?  M?X   瀛熸壃r?  M?X   缂栬憲r?  M?X	   鍥介檯鍖杛?  M?X   娼祦r?  M?X   澶у叏r?  M?X   涓崕宸ュ晢r?  M?X   "r?  M?X   Ther?  M?X   Purer?  M?X   Theoryr?  M?X   ofr?  M?X   PublicExpenditurer?  M?X   Reviewr?  M?X   Economicr?  M?X   andr?  M?X
+   Statisticsr?  M?X   Volr?  M?X   36r?  M?X   PPr?  M?X   387r?  M?X   缂洪櫡r?  M?X   绉戞妧浜т笟r?  M?uX   id2tokenr?  }r?  X   dfsr?  }r?  (K KKKKKKKKKKKKKKKKKK	K	K
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK KK!KK"KK#KK$KK%KK&KK'KK(KK)KK*KK+KK,KK-KK.KK/KK0KK1KK2KK3KK4KK5KK6KK7KK8KK9KK:KK;KK<KK=KK>KK?KK@KKAKKBKKCKKDKKEKKFKKGKKHKKIKKJKKKK
+KLKKMKKNKKOKKPKKQKKRKKSKKTKKUKKVKKWKKXKKYKKZKK[K	K\KK]KK^KK_KK`KKaKKbKKcKKdKKeKKfKKgKKhKKiKKjKKkKKlKKmKKnKKoKKpKKqKKrKKsKKtKKuKKvKKwK	KxKKyKKzKK{KK|KK}KK~KKKK€KK並K侹K僈K凨K匥K咾K嘖K圞K塊K奒K婯K孠K岾K嶬K廗K怟K慘K扠K揔
+K擪K昁K朘K桲K楰K橩K欿K汯K淜K滽K濳K烱K燢KKKKKKKK↘K㎏K狵K獽K琄K璌K甂K疜K癒	K盞K睰K矺K碖K礙K禟K稫K窴K筀K篕K籏K糑K終K綤K縆K繩K罧K翶K肒K腒K臟K芀K荎K菿K蒏K蔏K薑K蘇K蚄K蜬K螷	K蠯K袺K襅K覭K訩K誎K諯K譑K豄K貹K贙K跭K躃K軰K轐K逰	K郖K酜	K釱K鉑K銴K錕K鍷K鏚K鐺K镵K闗K隟K霮K鞬K頚K颣K餕	K馣K騅K驥K鬕K鮇K鯧K鱇K鳮K鵎K鶮K鸎K麷K齂K﨣KKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)K
+M*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`K
+MaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?K	M?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMK	MKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMK
+MKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?K	M?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?K	M?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRK	MSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?Ku(M?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?Ku(M?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM 	KM	KM	KM	KM	KM	KM	KM	KM	KM		KM
+	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM	KM 	KM!	KM"	KM#	KM$	KM%	KM&	KM'	KM(	KM)	KM*	KM+	KM,	KM-	KM.	KM/	KM0	KM1	KM2	KM3	KM4	KM5	KM6	KM7	KM8	KM9	KM:	KM;	KM<	KM=	KM>	KM?	KM@	KMA	KMB	KMC	KMD	KME	KMF	KMG	KMH	KMI	KMJ	KMK	KML	KMM	KMN	KMO	KMP	KMQ	KMR	KMS	KMT	KMU	KMV	KMW	KMX	KMY	KMZ	KM[	KM\	KM]	KM^	KM_	KM`	KMa	KMb	KMc	KMd	KMe	KMf	KMg	KMh	KMi	KMj	KMk	KMl	KMm	KMn	KMo	KMp	KMq	KMr	KMs	KMt	KMu	KMv	KMw	KMx	KMy	KMz	KM{	KM|	KM}	KM~	KM	KM€	KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM	KM 
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM	
+KM
+
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM
+KM 
+KM!
+KM"
+KM#
+KM$
+KM%
+KM&
+KM'
+KM(
+KM)
+KM*
+KM+
+KM,
+KM-
+KM.
+KM/
+KM0
+KM1
+KM2
+KM3
+KM4
+KM5
+KM6
+KM7
+KM8
+KM9
+KM:
+KM;
+KM<
+KM=
+KM>
+KM?
+KM@
+KMA
+KMB
+KMC
+KMD
+KME
+KMF
+KMG
+KMH
+KMI
+KMJ
+KMK
+KML
+KMM
+KMN
+KMO
+KMP
+KMQ
+KMR
+KMS
+KMT
+KMU
+KMV
+KMW
+KMX
+KMY
+KMZ
+KM[
+KM\
+KM]
+KM^
+KM_
+KM`
+KMa
+KMb
+KMc
+KMd
+KMe
+KMf
+KMg
+KMh
+KMi
+KMj
+KMk
+KMl
+KMm
+KMn
+KMo
+KMp
+KMq
+KMr
+KMs
+KMt
+KMu
+KMv
+KMw
+KMx
+KMy
+KMz
+KM{
+KM|
+KM}
+KM~
+KM
+KM€
+KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM
+KM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?Ku(M?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?Ku(M?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KMKM KMKMKMKMKMKMKMKMKM	KM
+KMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKMKM KM!KM"KM#KM$KM%KM&KM'KM(KM)KM*KM+KM,KM-KM.KM/KM0KM1KM2KM3KM4KM5KM6KM7KM8KM9KM:KM;KM<KM=KM>KM?KM@KMAKMBKMCKMDKMEKMFKMGKMHKMIKMJKMKKMLKMMKMNKMOKMPKMQKMRKMSKMTKMUKMVKMWKMXKMYKMZKM[KM\KM]KM^KM_KM`KMaKMbKMcKMdKMeKMfKMgKMhKMiKMjKMkKMlKMmKMnKMoKMpKMqKMrKMsKMtKMuKMvKMwKMxKMyKMzKM{KM|KM}KM~KMKM€KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KM?KuX   num_docsr?  KX   num_posr?  M賀X   num_nnzr?  M?X   __numpysr?  ]r?  X   __scipysr?  ]r?  X
+   __ignoredsr?  ]r?  X   __recursive_saveloadsr?  ]r?  ub.
