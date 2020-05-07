@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 # 一些nlp方面的练手项目
 
-## 01bilstm-ner
+# 01bilstm-ner
 ### 项目介绍
 这是一个keras构建ner并识别的项目
 ### 内容介绍
@@ -15,7 +15,7 @@ ner:是程序主体，识别21个标签
 nerpre：是用模型进行预测用的
 ###后期不定期更新
 
-## 02pattern_correct-v3
+#02 pattern_correct-v3
 # 项目说明
 这是一个利用传统的bootstrapping方法利用模板进行判断的关系抽取项目
 这个前面走了一些弯路，由于是传统方法所以代码比较多，第一次做这个，做的有点乱
@@ -29,10 +29,10 @@ nerpre：是用模型进行预测用的
 # 实验参数
 217个句子
 
-## 03similar
+# 03similar
 相似性实验
 
-## ner_web_v1
+# ner_web_v1
 发布成服务
 
 
