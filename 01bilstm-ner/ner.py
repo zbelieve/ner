@@ -5,17 +5,31 @@ test_data_path = "data/train_data.txt" # 测试数据
 special_words = ['<PAD>', '<UNK>'] # 特殊词表示
 
 # "BIO"标记的标签
+# 弹体：弹体类型Dtype,弹体材料Dmaterials，弹体材料强度DmaterialsStrength;，弹头形状Dshape，CRH Dcrh，弹体直径Ddiameter，弹体长度Dlength，弹体质量Dweight
+# 着靶参数：着靶速度Zspeed，命中角Zangle
+# 靶标：靶标材料种类Btype，靶标厚度Bthickness,靶标抗压强度Bstrength，靶标材料密度Bdensity，靶标配筋率Bratio
+# 效应：侵彻深度Xdepth，贯穿Xpenetrate
+# 发射炮类型F
+
 label2idx = {"O": 0,
-             "B-Dname": 1, "I-Dname": 2,
+             "B-Dtype": 1, "I-Dtype": 2,
              "B-Dmaterial": 3, "I-Dmaterial": 4,
-             "B-Dweight": 5, "I-Dweight": 6,
-             "B-Ddiameter": 7, "I-Ddiameter": 8,
-             "B-Dlength": 9, "I-Dlength": 10,
-             "B-Dspeed": 11, "I-Dspeed": 12,
-             "B-Btype": 13, "I-Btype": 14,
-             "B-Bdensity": 15, "I-Bdensity": 16,
-             "B-F": 17, "I-F": 18,
-             "B-Height": 19, "I-Height": 20,
+             "B-DmaterialsStrength": 5, "I-DmaterialsStrength": 6,
+             "B-Dshape": 7, "I-Dshape": 8,
+             "B-Dcrh": 9, "I-Dcrh": 10,
+             "B-Ddiameter": 11, "I-Ddiameter": 12,
+             "B-Dlength": 13, "I-Dlength": 14,
+             "B-Dweight": 15, "I-Dweight": 16,
+             "B-Zspeed": 17, "I-Zspeed": 18,
+             "B-Zangle": 19, "I-Zangle": 20,
+             "B-Btype": 21, "I-Btype": 22,
+             "B-Bthickness": 23, "I-Bthickness": 24,
+             "B-Bstrength": 25, "I-Bstrength": 26,
+             "B-Bdensity": 27, "I-Bdensity": 28,
+             "B-Bratio": 29, "I-Bratio": 30,
+             "B-Xdepth": 31, "I-Xdepth": 32,
+             "B-Xpenetrate": 33, "I-Xpenetrate": 34,
+             "B-F": 33, "I-F": 34
              }
 # 索引和BIO标签对应
 idx2label = {idx: label for label, idx in label2idx.items()}
@@ -79,11 +93,11 @@ from keras_contrib.metrics import crf_viterbi_accuracy
 from keras import backend as K
 K.clear_session()
 
-EPOCHS = 3000
+EPOCHS = 4000
 BATCH_SIZE = 2
 EMBED_DIM = 1
 HIDDEN_SIZE = 1
-MAX_LEN = 200
+MAX_LEN = 500
 VOCAB_SIZE = len(vocab2idx)
 CLASS_NUMS = len(label2idx)
 print(VOCAB_SIZE,CLASS_NUMS)
@@ -159,6 +173,6 @@ print(model.metrics_names)
 print(score)
 
 # save model
-model.save("./model/ch_ner_model2.h5")
+model.save("./model/ch_ner_model4.h5")
 
 
