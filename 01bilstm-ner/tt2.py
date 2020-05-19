@@ -1,2 +1,1 @@
-def xx():
-    return "ddsdd"
+print("xxx<br/>xx".split("<br/>"))

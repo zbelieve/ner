@@ -33,7 +33,9 @@ nerpre：是用模型进行预测用的
 
 # ner_web_v1
 将ner发布成服务
-
+cd study/kg/some_example/ner/ner_web_v1
+activate tensorflow-cpu
+python manage.py runserver 127.0.0.1:8001
 
 
 

@@ -1,9 +1,9 @@
 from django.http import HttpResponse
-
+import re
 
 def hello(request):
     id = request.GET.get('id', '0')
-    print(id)
+    print(str(id))
     import numpy as np
     import keras
     from keras.models import Sequential
@@ -35,28 +35,39 @@ def hello(request):
     '''数据库连接'''
     # 根据流程
     # 1.我们先建立数据库的连接信息
-    host = "127.0.0.1"
-    user = "root"
-    password = "root"
-    port = 3306
-    mysql = pymysql.connect(host=host, user=user, password=password, port=port)
+    # host = "127.0.0.1"
+    # user = "root"
+    # password = "root"
+    # port = 3306
+    # mysql = pymysql.connect(host=host, user=user, password=password, port=port)
     # 2.新建个查询页面
-    cursor = mysql.cursor()
+    # cursor = mysql.cursor()
     # 3编写sql
-    sql = 'SELECT TM_TEXT FROM tm.tm_info WHERE TM_ID = ' + id
+    # sql = 'SELECT CONTENT_TXT FROM literaturesystem.DOCUMENTS WHERE UUID = ' + id
     # 4.执行sql
-    cursor.execute(sql)
+    # cursor.execute(sql)
     # 5.查看结果
     # result = cursor.fetchone() #用于返回单条数据
-    results = cursor.fetchall()  # 用于返回多条数据
-    TM_TEXT = results[0][0]
+    # results = cursor.fetchall()  # 用于返回多条数据
+
+    if re.findall("<br/>",str(id)):
+        TM_TEXT = str(id).split("<br/>")
+    elif re.findall("\r\n",str(id)):
+        TM_TEXT = str(id).split("\r\n")
+    else:
+        TM_TEXT = []
+        TM_TEXT.append(str(id))
+    print(TM_TEXT)
+    # print(results[0][0])
+    # print(TM_TEXT)
     # print(TM_TEXT)
     s = []
-    s.append(TM_TEXT)
+    for data in TM_TEXT:
+        s.append(data)
     # 6.关闭查询
-    cursor.close()
+    # cursor.close()
     # 关闭数据库
-    mysql.close()
+    # mysql.close()
 
     special_words = ['<PAD>', '<UNK>']  # 特殊词表示
 
@@ -154,6 +165,7 @@ def hello(request):
     #      "设计了一款Φ1000mm的试验弹丸，长径比为6，弹壳壁厚与弹径比为0.15，弹体质量约340g，如图2所示，混凝土靶直径为100m，长径比为6。在本次的实验中混凝土靶标的长度为200cm.",
     #      "混凝土靶直径为100m，长径比为6。在本次的实验中混凝土靶标的质量为100kg."
     #     ]
+    TextAll = []
     for i in s:
         sent_chars = list(i)
         sent2id = [vocab2idx[word] if word in vocab2idx else vocab2idx['<UNK>'] for word in sent_chars]
@@ -193,105 +205,105 @@ def hello(request):
                 result_words.append((input_data[start: end], tag_label))  # 获取结尾的实体
             return result_words
 
-    Ddiameter = []
-    result_words = get_valid_nertag(sent_chars, y_ner)
-    Dtype = []
-    Dmaterial = []
-    DmaterialsStrength = []
-    Dshape = []
-    Dcrh = []
-    Ddiameter = []
-    Dlength = []
-    Dweight = []
-    Zspeed = []
-    Zangle = []
-    Btype = []
-    Bthickness = []
-    Bstrength = []
-    Bdensity = []
-    Bratio = []
-    Xdepth = []
-    Xpenetrate = []
-    F = []
+        Ddiameter = []
+        result_words = get_valid_nertag(sent_chars, y_ner)
+        Dtype = []
+        Dmaterial = []
+        DmaterialsStrength = []
+        Dshape = []
+        Dcrh = []
+        Ddiameter = []
+        Dlength = []
+        Dweight = []
+        Zspeed = []
+        Zangle = []
+        Btype = []
+        Bthickness = []
+        Bstrength = []
+        Bdensity = []
+        Bratio = []
+        Xdepth = []
+        Xpenetrate = []
+        F = []
 
-    TextLine = []
-    for (word, tag) in result_words:
-        # 一条数据
+        for (word, tag) in result_words:
+            # 一条数据
 
-        if tag == "Dtype":
-            # print("Dtype：", "".join(word))
-            Dtype.append("".join(word))
-        if tag == "Dmaterial":
-            # print("Dmaterial：","".join(word))
-            Dmaterial.append("".join(word))
-        if tag == "DmaterialsStrength":
-            # print("DmaterialsStrength：","".join(word))
-            DmaterialsStrength.append("".join(word))
-        if tag == "Dshape":
-            # print("Dshape：","".join(word))
-            Dshape.append("".join(word))
-        if tag == "Dcrh":
-            # print("Dcrh：","".join(word))
-            Dcrh.append("".join(word))
-        if tag == "Ddiameter":
-            # print("Ddiameter：","".join(word))
-            Ddiameter.append(word)
-        if tag == "Dlength":
-            # print("Dlength：","".join(word))
-            Dlength.append("".join(word))
-        if tag == "Dweight":
-            # print("Dweight：","".join(word))
-            Dweight.append("".join(word))
-        if tag == "Zspeed":
-            # print("Zspeed：","".join(word))
-            Zspeed.append("".join(word))
-        if tag == "Zangle":
-            # print("Zangle：","".join(word))
-            Zangle.append("".join(word))
-        if tag == "Btype":
-            # print("Btype：","".join(word))
-            Btype.append("".join(word))
-        if tag == "Bthickness":
-            # print("Bthickness：","".join(word))
-            Bthickness.append("".join(word))
-        if tag == "Bstrength":
-            # print("Bstrength：","".join(word))
-            Bstrength.append("".join(word))
-        if tag == "Bdensity":
-            # print("Bdensity：","".join(word))
-            Bdensity.append("".join(word))
-        if tag == "Bratio":
-            # print("Bratio：","".join(word))
-            Bratio.append("".join(word))
-        if tag == "Xdepth":
-            # print("Xdepth：","".join(word))
-            Xdepth.append("".join(word))
-        if tag == "Xpenetrate":
-            # print("Xpenetrate：","".join(word))
-            Xpenetrate.append("".join(word))
-        if tag == "F":
-            # print("F：","".join(word))
-            F.append("".join(word))
-    TextLine = {
-        '靶标类型': Dtype,
-        '弹体材料': Dmaterial,
-        '弹体材料强度': DmaterialsStrength,
-        '弹头形状': Dshape,
-        'CRH ': Dcrh,
-        '弹体直径': Ddiameter,
-        '弹体长度': Dlength,
-        '弹体质量': Dweight,
-        '着靶速度': Zspeed,
-        '命中角': Zangle,
-        '靶标材料种类': Btype,
-        '靶标厚度': Bthickness,
-        '靶标抗压强度': Bstrength,
-        '靶标材料密度': Bdensity,
-        '靶标配筋率': Bratio,
-        '侵彻深度': Xdepth,
-        '贯穿': Xpenetrate,
-        '发射炮类型': F
-    }
+            if tag == "Dtype":
+                # print("Dtype：", "".join(word))
+                Dtype.append("".join(word))
+            if tag == "Dmaterial":
+                # print("Dmaterial：","".join(word))
+                Dmaterial.append("".join(word))
+            if tag == "DmaterialsStrength":
+                # print("DmaterialsStrength：","".join(word))
+                DmaterialsStrength.append("".join(word))
+            if tag == "Dshape":
+                # print("Dshape：","".join(word))
+                Dshape.append("".join(word))
+            if tag == "Dcrh":
+                # print("Dcrh：","".join(word))
+                Dcrh.append("".join(word))
+            if tag == "Ddiameter":
+                # print("Ddiameter：","".join(word))
+                Ddiameter.append(word)
+            if tag == "Dlength":
+                # print("Dlength：","".join(word))
+                Dlength.append("".join(word))
+            if tag == "Dweight":
+                # print("Dweight：","".join(word))
+                Dweight.append("".join(word))
+            if tag == "Zspeed":
+                # print("Zspeed：","".join(word))
+                Zspeed.append("".join(word))
+            if tag == "Zangle":
+                # print("Zangle：","".join(word))
+                Zangle.append("".join(word))
+            if tag == "Btype":
+                # print("Btype：","".join(word))
+                Btype.append("".join(word))
+            if tag == "Bthickness":
+                # print("Bthickness：","".join(word))
+                Bthickness.append("".join(word))
+            if tag == "Bstrength":
+                # print("Bstrength：","".join(word))
+                Bstrength.append("".join(word))
+            if tag == "Bdensity":
+                # print("Bdensity：","".join(word))
+                Bdensity.append("".join(word))
+            if tag == "Bratio":
+                # print("Bratio：","".join(word))
+                Bratio.append("".join(word))
+            if tag == "Xdepth":
+                # print("Xdepth：","".join(word))
+                Xdepth.append("".join(word))
+            if tag == "Xpenetrate":
+                # print("Xpenetrate：","".join(word))
+                Xpenetrate.append("".join(word))
+            if tag == "F":
+                # print("F：","".join(word))
+                F.append("".join(word))
+            TextLine = {
+                '弹体类型': Dtype,
+                '弹体材料': Dmaterial,
+                '弹体材料强度': DmaterialsStrength,
+                '弹头形状': Dshape,
+                'CRH ': Dcrh,
+                '弹体直径': Ddiameter,
+                '弹体长度': Dlength,
+                '弹体质量': Dweight,
+                '着靶速度': Zspeed,
+                '命中角': Zangle,
+                '靶标材料种类': Btype,
+                '靶标厚度': Bthickness,
+                '靶标抗压强度': Bstrength,
+                '靶标材料密度': Bdensity,
+                '靶标配筋率': Bratio,
+                '侵彻深度': Xdepth,
+                '贯穿': Xpenetrate,
+                '发射炮类型': F
+            }
+        TextAll.append(TextLine)
 
     # length=[len(Dtype),len(Dmaterial),len(DmaterialsStrength),len(Dshape),len(Dcrh),len(Ddiameter),len(Dlength),
     #         len(Dweight),len(Zspeed),len(Zangle),len(Btype),len(Bthickness),len(Bstrength),len(Bdensity),
@@ -339,5 +351,10 @@ def hello(request):
     # print(".................")
     # print(Zspeed)
     # print(Zangle)
-    return HttpResponse(json.dumps(TextLine,ensure_ascii=False), content_type="application/json,charset=utf-8")
+    dataLast={
+        'data':TextAll
+    }
+
+    return HttpResponse(json.dumps(dataLast,ensure_ascii=False), content_type="application/json;charset=utf-8")
+    # return json.dumps(dataLast, ensure_ascii=False)
 
